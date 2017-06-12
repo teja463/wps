@@ -1,0 +1,300 @@
+{
+	"moduleIDs": [
+		"getting_started_module",
+		"wp_theme_portal_85",
+		"myDev_dynamicContentSpots_85",
+		"wp_toolbar_host_view",
+		"wp_portlet_css",
+		"wp_one_ui",
+		"wp_one_ui_dijit",
+		"wp_legacy_layouts",
+		"wp_client_ext",
+		"wp_status_bar",
+		"wp_theme_menus",
+		"wp_theme_skin_region",
+		"wp_theme_high_contrast",
+		"wp_layout_windowstates",
+		"wp_portal",
+		"wp_pagebuilder_ui",
+		"wp_tagging_rating_menu",
+		"wp_tagging_rating_tagcloud",
+		"wp_tagging_rating_opensearch",
+		"wp_social_rendering_85",
+		"wp_analytics_aggregator",
+		"wp_oob_sample_styles",
+		"wp_ic4_wai_resources",
+		"wp_worklight_ext",
+		"dojo"
+	],
+	"deferredModuleIDs": [
+		"wp_toolbar_host_edit",
+		"wp_analytics_tags",
+		"wp_contextmenu_live_object",
+		"wp_content_targeting_cam",
+		"wcm_inplaceEdit",
+		"wp_liveobject_framework"
+	],
+	"metadata":{
+		"com.ibm.portal.Hidden":"true"
+	},
+	"titles": [
+		{
+			"value":"Ù…Ø±ÙƒØ² Ø§Ù„Ø¨Ø­Ø« ÙˆØ´Ø§Ø±Ø§Øª Ø§Ù„ØªØ¹Ù„ÙŠÙ…",
+			"lang":"ar"
+		},
+		{
+			"value":"Search and Tag Center",
+			"lang":"ca"
+		},
+		{
+			"value":"Centrum vyhledÃ¡vÃ¡nÃ­ a znaÄ�ek",
+			"lang":"cs"
+		},
+		{
+			"value":"SÃ¸ge- og emneordscenter",
+			"lang":"da"
+		},
+		{
+			"value":"Such- und Tag-Center",
+			"lang":"de"
+		},
+		{
+			"value":"ÎšÎ­Î½Ï„Ï�Î¿ Î±Î½Î±Î¶Î®Ï„Î·ÏƒÎ·Ï‚ ÎºÎ±Î¹ Ï€Ï�Î¿ÏƒÎ´Î¹Î¿Ï�Î¹ÏƒÏ„Î¹ÎºÏŽÎ½",
+			"lang":"el"
+		},
+		{
+			"value":"Search and Tag Center",
+			"lang":"en"
+		},
+		{
+			"value":"Search and Tag Center",
+			"lang":"es"
+		},
+		{
+			"value":"Haku- ja tunnistetoiminnot",
+			"lang":"fi"
+		},
+		{
+			"value":"Centre de recherche et Centre d'Ã©tiquettes",
+			"lang":"fr"
+		},
+		{
+			"value":"×ž×¨×›×– ×”×—×™×¤×•×© ×•×”×ª×’×™×�",
+			"lang":"he"
+		},
+		{
+			"value":"Centar pretraÅ¾ivanja i oznaka",
+			"lang":"hr"
+		},
+		{
+			"value":"KeresÅ‘- Ã©s CÃ­mkekÃ¶zpont",
+			"lang":"hu"
+		},
+		{
+			"value":"Centro ricerca e tag",
+			"lang":"it"
+		},
+		{
+			"value":"æ¤œç´¢ã�Šã‚ˆã�³ã‚¿ã‚°ãƒ»ã‚»ãƒ³ã‚¿ãƒ¼",
+			"lang":"ja"
+		},
+		{
+			"value":"Ð†Ð·Ð´ÐµÑƒ Ð¶Ó™Ð½Ðµ Ð¢ÐµÐ³ Ð¾Ñ€Ñ‚Ð°Ð»Ñ‹Ò“Ñ‹",
+			"lang":"kk"
+		},
+		{
+			"value":"ê²€ìƒ‰ ë°� íƒœê·¸ ì„¼í„°",
+			"lang":"ko"
+		},
+		{
+			"value":"Zoek- en tagcentrum",
+			"lang":"nl"
+		},
+		{
+			"value":"SÃ¸ke- og kodesenter",
+			"lang":"no"
+		},
+		{
+			"value":"Centrum wyszukiwania i Centrum znacznikÃ³w",
+			"lang":"pl"
+		},
+		{
+			"value":"Centro de procura e etiquetas",
+			"lang":"pt"
+		},
+		{
+			"value":"Centro de Procura e IdentificaÃ§Ã£o",
+			"lang":"pt_BR"
+		},
+		{
+			"value":"Centrul de cÄƒutare ÅŸi taguri",
+			"lang":"ro"
+		},
+		{
+			"value":"Ð¦ÐµÐ½Ñ‚Ñ€ Ð¿Ð¾Ð¸Ñ�ÐºÐ° Ð¸ Ñ‚ÐµÐ³Ð¾Ð²",
+			"lang":"ru"
+		},
+		{
+			"value":"Centrum hÄ¾adania a znaÄ�iek",
+			"lang":"sk"
+		},
+		{
+			"value":"SrediÅ¡Ä�e za iskanje in oznaÄ�evanje",
+			"lang":"sl"
+		},
+		{
+			"value":"SÃ¶k- och mÃ¤rkordscenter",
+			"lang":"sv"
+		},
+		{
+			"value":"à¸¨à¸¹à¸™à¸¢à¹Œà¸„à¹‰à¸™à¸«à¸²à¹�à¸¥à¸°à¹�à¸—à¹‡à¸�",
+			"lang":"th"
+		},
+		{
+			"value":"Arama ve Etiket Merkezi",
+			"lang":"tr"
+		},
+		{
+			"value":"Ð¦ÐµÐ½Ñ‚Ñ€Ð¸ Ð¿Ð¾ÑˆÑƒÐºÑƒ Ð¹ Ñ‚ÐµÐ³Ñ–Ð²",
+			"lang":"uk"
+		},
+		{
+			"value":"æ�œç´¢å’Œæ ‡è®°ä¸­å¿ƒ",
+			"lang":"zh"
+		},
+		{
+			"value":"æ�œå°‹å’Œæ¨™ç±¤ä¸­å¿ƒ",
+			"lang":"zh_TW"
+		}
+	],
+	"descriptions": [
+		{
+			"value":"ÙŠØªÙ… Ø§Ø³ØªØ®Ø¯Ø§Ù… Ù…Ù„Ù� Ø§Ù„Ù…ÙˆØ§ØµÙ�Ø§Øª Ù‡Ø°Ø§ Ù„ØµÙ�Ø­Ø§Øª Ù…Ø±ÙƒØ² Ø§Ù„Ø¨Ø­Ø« ÙˆÙ…Ø±ÙƒØ² Ø´Ø§Ø±Ø§Øª Ø§Ù„ØªØ¹Ù„ÙŠÙ…",
+			"lang":"ar"
+		},
+		{
+			"value":"Aquest perfil s'utilitza per les pÃ gines del Search Center and Tag Center",
+			"lang":"ca"
+		},
+		{
+			"value":"Tento profil se pouÅ¾Ã­vÃ¡ pro strÃ¡nky centra vyhledÃ¡vÃ¡nÃ­ a centra znaÄ�ek",
+			"lang":"cs"
+		},
+		{
+			"value":"Denne profil anvendes til sider med SÃ¸gecenter og Emneordscenter",
+			"lang":"da"
+		},
+		{
+			"value":"Dieses Profil wird fÃ¼r Suchcenter- und Tag-Center-Seiten verwendet",
+			"lang":"de"
+		},
+		{
+			"value":"Î‘Ï…Ï„ÏŒ Ï„Î¿ Ï€Ï�Î¿Ï†Î¯Î» Ï‡Ï�Î·ÏƒÎ¹Î¼Î¿Ï€Î¿Î¹ÎµÎ¯Ï„Î±Î¹ Î³Î¹Î± Ï„Î¹Ï‚ ÏƒÎµÎ»Î¯Î´ÎµÏ‚ Ï„Î¿Ï… ÎºÎ­Î½Ï„Ï�Î¿Ï… Î±Î½Î±Î¶Î®Ï„Î·ÏƒÎ·Ï‚ ÎºÎ±Î¹ Ï„Î¿Ï… ÎºÎ­Î½Ï„Ï�Î¿Ï… Ï€Ï�Î¿ÏƒÎ´Î¹Î¿Ï�Î¹ÏƒÏ„Î¹ÎºÏŽÎ½.",
+			"lang":"el"
+		},
+		{
+			"value":"This profile is used for Search Center and Tag Center Pages",
+			"lang":"en"
+		},
+		{
+			"value":"Las pÃ¡ginas de Search Center and Tag utilizan este perfil",
+			"lang":"es"
+		},
+		{
+			"value":"TÃ¤tÃ¤ profiilia kÃ¤ytetÃ¤Ã¤n Haku- ja tunnistetoimintojen sivuille",
+			"lang":"fi"
+		},
+		{
+			"value":"Ce profil est utilisÃ© pour les pages Centre de recherche et Centre d'Ã©tiquettes",
+			"lang":"fr"
+		},
+		{
+			"value":"×¤×¨×•×¤×™×œ ×–×” ×ž×©×ž×© ×¢×‘×•×¨ ×”×“×£ '×ž×¨×›×– ×”×—×™×¤×•×©' ×•×”×“×£ '×ž×¨×›×– ×”×ª×’×™×�'",
+			"lang":"he"
+		},
+		{
+			"value":"Ovaj profil se koristi za stranice centra pretraÅ¾ivanja i centra oznaka",
+			"lang":"hr"
+		},
+		{
+			"value":"A profil a KeresÅ‘kÃ¶zpont Ã©s a CÃ­mkekÃ¶zpont oldalakhoz hasznÃ¡latos",
+			"lang":"hu"
+		},
+		{
+			"value":"Questo profilo Ã¨ utilizzato per le pagine Centro ricerca e Centro tag",
+			"lang":"it"
+		},
+		{
+			"value":"ã�“ã�®ãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«ã�¯æ¤œç´¢ã‚»ãƒ³ã‚¿ãƒ¼ã�¨ã‚¿ã‚°ãƒ»ã‚»ãƒ³ã‚¿ãƒ¼ã�«ä½¿ç”¨ã�•ã‚Œã�¾ã�™ã€‚",
+			"lang":"ja"
+		},
+		{
+			"value":"Ð‘Ò±Ð» Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ð†Ð·Ð´ÐµÑƒ ÐžÑ€Ñ‚Ð°Ð»Ñ‹Ò“Ñ‹ Ð¶Ó™Ð½Ðµ Ð¢ÐµÐ³ ÐžÑ€Ñ‚Ð°Ð»Ñ‹Ò“Ñ‹ Ð‘ÐµÑ‚Ñ‚ÐµÑ€Ñ– Ò¯ÑˆÑ–Ð½ Ò›Ð¾Ð»Ð´Ð°Ð½Ñ‹Ð»Ð°Ð´Ñ‹",
+			"lang":"kk"
+		},
+		{
+			"value":"ì�´ í”„ë¡œíŒŒì�¼ì�€ ê²€ìƒ‰ ì„¼í„° ë°� íƒœê·¸ ì„¼í„° íŽ˜ì�´ì§€ì—� ì‚¬ìš©ë�©ë‹ˆë‹¤.",
+			"lang":"ko"
+		},
+		{
+			"value":"Dit profiel wordt gebruikt voor pagina's van het Zoekcentrum en het Tagcentrum",
+			"lang":"nl"
+		},
+		{
+			"value":"Denne profilen brukes for sidene SÃ¸kesenter og Kodesenter",
+			"lang":"no"
+		},
+		{
+			"value":"Ten profil jest uÅ¼ywany dla stron Centrum wyszukiwania i Centrum znacznikÃ³w.",
+			"lang":"pl"
+		},
+		{
+			"value":"Este perfil Ã© utilizado para as pÃ¡ginas do Centro de procura e para o Centro de etiquetas",
+			"lang":"pt"
+		},
+		{
+			"value":"Este perfil Ã© usado para as pÃ¡ginas Centro de Procura e Centro de IdentificaÃ§Ã£o",
+			"lang":"pt_BR"
+		},
+		{
+			"value":"Acest profil este folosit de Centru de cÄƒutare ÅŸi Centru de taguri.",
+			"lang":"ro"
+		},
+		{
+			"value":"Ð­Ñ‚Ð¾Ñ‚ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ð¸Ñ�Ð¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚Ñ�Ñ� Ð´Ð»Ñ� Ñ�Ñ‚Ñ€Ð°Ð½Ð¸Ñ† Ð¦ÐµÐ½Ñ‚Ñ€Ð° Ð¿Ð¾Ð¸Ñ�ÐºÐ° Ð¸ Ð¦ÐµÐ½Ñ‚Ñ€Ð° Ñ‚ÐµÐ³Ð¾Ð²",
+			"lang":"ru"
+		},
+		{
+			"value":"Tento profil sa pouÅ¾Ã­va pre strÃ¡nky Centrum hÄ¾adania a Centrum znaÄ�iek",
+			"lang":"sk"
+		},
+		{
+			"value":"Ta profil se uporablja za strani centra za iskanje in centra za oznaÄ�evanje",
+			"lang":"sl"
+		},
+		{
+			"value":"Profil fÃ¶r sÃ¶kcenter- och mÃ¤rkordscentersidor.",
+			"lang":"sv"
+		},
+		{
+			"value":"à¹‚à¸›à¸£à¹„à¸Ÿà¸¥à¹Œà¸™à¸µà¹‰à¹ƒà¸Šà¹‰à¸ªà¸³à¸«à¸£à¸±à¸šà¹€à¸žà¸ˆà¸¨à¸¹à¸™à¸¢à¹Œà¸„à¹‰à¸™à¸«à¸²à¹�à¸¥à¸°à¸¨à¸¹à¸™à¸¢à¹Œà¹�à¸—à¹‡à¸�",
+			"lang":"th"
+		},
+		{
+			"value":"Bu profil, Arama Merkezi ve Etiket Merkezi SayfalarÄ± iÃ§in kullanÄ±lÄ±r.",
+			"lang":"tr"
+		},
+		{
+			"value":"Ð¦ÐµÐ¹ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ð²Ð¸ÐºÐ¾Ñ€Ð¸Ñ�Ñ‚Ð¾Ð²ÑƒÑ”Ñ‚ÑŒÑ�Ñ� Ð´Ð»Ñ� Ñ�Ñ‚Ð¾Ñ€Ñ–Ð½Ð¾Ðº Ð¦ÐµÐ½Ñ‚Ñ€Ñƒ Ð¿Ð¾ÑˆÑƒÐºÑƒ Ñ‚Ð° Ð¦ÐµÐ½Ñ‚Ñ€Ñƒ Ñ‚ÐµÐ³Ñ–Ð²",
+			"lang":"uk"
+		},
+		{
+			"value":"æ­¤æ¦‚è¦�æ–‡ä»¶ç”¨äºŽæ�œç´¢ä¸­å¿ƒå’Œæ ‡è®°ä¸­å¿ƒé¡µé�¢",
+			"lang":"zh"
+		},
+		{
+			"value":"æ­¤è¨­å®šæª”ç”¨æ–¼ã€Œæ�œå°‹ä¸­å¿ƒã€�å’Œã€Œæ¨™ç±¤ä¸­å¿ƒé �é�¢ã€�",
+			"lang":"zh_TW"
+		}
+	]
+}

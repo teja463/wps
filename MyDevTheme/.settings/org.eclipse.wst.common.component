@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="MyDevTheme">
+        <wb-resource deploy-path="/" source-path="/" tag="defaultRootSource"/>
+        <dependent-module archiveName="MyDevThemeDynamic.war" deploy-path="/" handle="module:/resource/MyDevThemeDynamic/MyDevThemeDynamic">
+            <dependent-object>Module_1473856833125</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="MyDevThemeStatic.war" deploy-path="/" handle="module:/resource/MyDevThemeStatic/MyDevThemeStatic">
+            <dependent-object>Module_1473856865740</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

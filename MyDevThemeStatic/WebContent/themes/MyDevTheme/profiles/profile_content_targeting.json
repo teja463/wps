@@ -1,0 +1,279 @@
+{
+	"moduleIDs": [
+		"wp_theme_portal_85",
+		"myDev_dynamicContentSpots_85",
+		"wp_portlet_css",
+		"wp_portal",
+		"wp_client_main",
+		"wp_client_ext",
+		"wp_theme_skin_region",
+		"wp_theme_high_contrast",
+		"wp_one_ui",
+		"wp_one_ui_dijit",
+		"wp_dialog_main",
+		"wp_content_targeting_cam"
+	],
+	"metadata":{
+		"com.ibm.portal.Hidden":"true"
+	},
+	"titles": [
+		{
+			"value":"Ø§Ù„Ù…Ø­ØªÙˆÙŠØ§Øª Ø§Ù„ØªÙŠ ØªØ³ØªÙ‡Ø¯Ù� Ø§Ù„ØµÙ�Ø­Ø© Ø§Ù„ØªÙŠ ØªÙ… Ø§Ø®Ù�Ø§Ø¡Ù‡Ø§",
+			"lang":"ar"
+		},
+		{
+			"value":"PÃ gina oculta de destinaciÃ³ de contingut",
+			"lang":"ca"
+		},
+		{
+			"value":"SkrytÃ¡ strÃ¡nka cÃ­lenÃ­ obsahu",
+			"lang":"cs"
+		},
+		{
+			"value":"MÃ¥lretning af indhold - skjult side",
+			"lang":"da"
+		},
+		{
+			"value":"Gestaltung von Inhalten fÃ¼r Zielgruppen - Ausgeblendete Seite",
+			"lang":"de"
+		},
+		{
+			"value":"ÎšÏ�Ï…Ï†Î® ÏƒÎµÎ»Î¯Î´Î± ÏƒÏ„ÏŒÏ‡ÎµÏ…ÏƒÎ·Ï‚ Ï€ÎµÏ�Î¹ÎµÏ‡Î¿Î¼Î­Î½Î¿Ï…",
+			"lang":"el"
+		},
+		{
+			"value":"Content Targeting Hidden Page",
+			"lang":"en"
+		},
+		{
+			"value":"PÃ¡gina oculta de destino al contenido",
+			"lang":"es"
+		},
+		{
+			"value":"SisÃ¤llÃ¶n kohdistuksen piilotettu sivu",
+			"lang":"fi"
+		},
+		{
+			"value":"Page masquÃ©e Ciblage de contenu",
+			"lang":"fr"
+		},
+		{
+			"value":"×“×£ ×ž×•×¡×ª×¨ ×©×œ ×™×™×¢×•×“ ×ª×•×›×Ÿ",
+			"lang":"he"
+		},
+		{
+			"value":"Skrivena stranica za usmjeravanje na sadrÅ¾aj",
+			"lang":"hr"
+		},
+		{
+			"value":"TartalomcÃ©lzÃ¡s rejtett oldal",
+			"lang":"hu"
+		},
+		{
+			"value":"Pagina nascosta Assegnazione del contenuto",
+			"lang":"it"
+		},
+		{
+			"value":"ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ãƒ»ã‚¿ãƒ¼ã‚²ãƒƒãƒˆæ±ºå®šã�®é�žè¡¨ç¤ºãƒšãƒ¼ã‚¸",
+			"lang":"ja"
+		},
+		{
+			"value":"ÐœÐ°Ð·Ð¼Ò±Ð½ Ð¼Ð°Ò›Ñ�Ð°Ñ‚Ñ‹Ð½Ñ‹Ò£ Ð¶Ð°Ñ�Ñ‹Ñ€Ñ‹Ð½ Ð±ÐµÑ‚Ñ–",
+			"lang":"kk"
+		},
+		{
+			"value":"ì»¨í…�ì¸  ëŒ€ìƒ�ì�˜ ìˆ¨ê²¨ì§„ íŽ˜ì�´ì§€",
+			"lang":"ko"
+		},
+		{
+			"value":"Verborgen pagina voor contentdoelen",
+			"lang":"nl"
+		},
+		{
+			"value":"Skjult side for innholdstilpasning",
+			"lang":"no"
+		},
+		{
+			"value":"Ukryta strona personalizowania treÅ›ci",
+			"lang":"pl"
+		},
+		{
+			"value":"PÃ¡gina oculta de direccionamento de conteÃºdo",
+			"lang":"pt"
+		},
+		{
+			"value":"PÃ¡gina Oculta de Destino de ConteÃºdo",
+			"lang":"pt_BR"
+		},
+		{
+			"value":"ConÅ£inut care Å£inteÅŸte pagina ascunsÄƒ",
+			"lang":"ro"
+		},
+		{
+			"value":"Ð¡ÐºÑ€Ñ‹Ñ‚Ð°Ñ� Ñ�Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð¸Ñ� Ñ†ÐµÐ»ÐµÐ²Ñ‹Ñ… Ð¾Ð±ÑŠÐµÐºÑ‚Ð¾Ð² Ð´Ð»Ñ� Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»Ð¾Ð²",
+			"lang":"ru"
+		},
+		{
+			"value":"Zacielenie obsahu, skrytÃ¡ strÃ¡nka",
+			"lang":"sk"
+		},
+		{
+			"value":"Skrita stran za izbiro vsebine",
+			"lang":"sl"
+		},
+		{
+			"value":"Dold sida fÃ¶r mÃ¥lanpassat innehÃ¥ll",
+			"lang":"sv"
+		},
+		{
+			"value":"Content Targeting Hidden Page",
+			"lang":"th"
+		},
+		{
+			"value":"Ä°Ã§erik Hedefleme GizlenmiÅŸ SayfasÄ±",
+			"lang":"tr"
+		},
+		{
+			"value":"ÐŸÑ€Ð¸Ñ…Ð¾Ð²Ð°Ð½Ð° Ñ�Ñ‚Ð¾Ñ€Ñ–Ð½ÐºÐ° Ð¿Ñ€Ð¸Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ� Ð¼Ð°Ñ‚ÐµÑ€Ñ–Ð°Ð»Ñ–Ð²",
+			"lang":"uk"
+		},
+		{
+			"value":"å†…å®¹å®šä½�éš�è—�é¡µé�¢",
+			"lang":"zh"
+		},
+		{
+			"value":"å…§å®¹å®šä½�éš±è—�çš„é �é�¢",
+			"lang":"zh_TW"
+		}
+	],
+	"descriptions": [
+		{
+			"value":"ÙŠØ­ØªÙˆÙŠ Ù…Ù„Ù� Ø§Ù„Ù…ÙˆØ§ØµÙ�Ø§Øª Ù‡Ø°Ø§ Ø¹Ù„Ù‰ Ù…Ø¬Ù…ÙˆØ¹Ø© ÙˆØ­Ø¯Ø§Øª Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„ØªÙŠ Ø³ÙŠØªÙ… Ø§Ø³ØªØ®Ø¯Ø§Ù…Ù‡Ø§ Ù„ÙˆØ§Ø¬Ù‡Ø© Ø§Ù„ØªØ¹Ø§Ù…Ù„ Ø§Ù„Ù…Ø³ØªÙ‡Ø¯Ù�Ø© Ù„Ù„Ù…Ø­ØªÙˆÙŠØ§Øª.",
+			"lang":"ar"
+		},
+		{
+			"value":"Aquest perfil tÃ© un conjunt de mÃ²duls que cal utilitzar per a l'IU de destinaciÃ³ de contingut.",
+			"lang":"ca"
+		},
+		{
+			"value":"Tento profil mÃ¡ sadu modulÅ¯ pro pouÅ¾itÃ­ v uÅ¾ivatelskÃ©m rozhranÃ­ cÃ­lenÃ­ obsahu.",
+			"lang":"cs"
+		},
+		{
+			"value":"Denne profil har det sÃ¦t moduler, der skal bruges til brugergrÃ¦nsefladen i MÃ¥lretning af indhold.",
+			"lang":"da"
+		},
+		{
+			"value":"Dieses Profil verfÃ¼gt Ã¼ber den Modulsatz, der fÃ¼r die UI zur Gestaltung von Inhalten fÃ¼r Zielgruppen verwendet werden soll.",
+			"lang":"de"
+		},
+		{
+			"value":"Î‘Ï…Ï„ÏŒ Ï„Î¿ Ï€Ï�Î¿Ï†Î¯Î» Ï€ÎµÏ�Î¹Î­Ï‡ÎµÎ¹ Ï„Î¹Ï‚ Î»ÎµÎ¹Ï„Î¿Ï…Ï�Î³Î¹ÎºÎ­Ï‚ Î¼Î¿Î½Î¬Î´ÎµÏ‚ Ï€Î¿Ï… Î±Ï€Î±Î¹Ï„Î¿Ï�Î½Ï„Î±Î¹ Î³Î¹Î± Ï„Î¿ Ï€ÎµÏ�Î¹Î²Î¬Î»Î»Î¿Î½ Ï‡Ï�Î®ÏƒÏ„Î· ÏƒÏ„ÏŒÏ‡ÎµÏ…ÏƒÎ·Ï‚ Ï€ÎµÏ�Î¹ÎµÏ‡Î¿Î¼Î­Î½Î¿Ï….",
+			"lang":"el"
+		},
+		{
+			"value":"This profile has the set of modules to be used for the Content Targeting UI.",
+			"lang":"en"
+		},
+		{
+			"value":"Este perfil tiene el conjunto de mÃ³dulos que se utilizarÃ¡ para la UI de destino al contenido.",
+			"lang":"es"
+		},
+		{
+			"value":"TÃ¤ssÃ¤ profiilissa on joukko moduuleja, joita kÃ¤ytetÃ¤Ã¤n sisÃ¤llÃ¶n kohdistustoiminnossa.",
+			"lang":"fi"
+		},
+		{
+			"value":"Ce profil contient l'ensemble de modules Ã  utiliser pour l'interface utilisateur de ciblage de contenu.",
+			"lang":"fr"
+		},
+		{
+			"value":"×¤×¨×•×¤×™×œ ×–×” ×›×•×œ×œ ×�×ª ×ž×¢×¨×š ×”×ž×•×“×•×œ×™×� ×”×ž×©×ž×© ×�×ª ×ž×ž×©×§ ×™×™×¢×•×“ ×ª×•×›×Ÿ.",
+			"lang":"he"
+		},
+		{
+			"value":"Ovaj profil ima skup modula koji se koriste za korisniÄ�ko suÄ�elje usmjeravanja na sadrÅ¾aj.",
+			"lang":"hr"
+		},
+		{
+			"value":"A profil tartalmazza a TartalomcÃ©lzÃ¡s felhasznÃ¡lÃ³i felÃ¼lethez hasznÃ¡latos modulok kÃ©szletÃ©t.",
+			"lang":"hu"
+		},
+		{
+			"value":"Questo profilo presenta l'insieme di moduli da utilizzare per l'UI Assegnazione del contenuto.",
+			"lang":"it"
+		},
+		{
+			"value":"ã�“ã�®ãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«ã�«ã�¯ã€�ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ãƒ»ã‚¿ãƒ¼ã‚²ãƒƒãƒˆæ±ºå®š UI ã�«ä½¿ç”¨ã�•ã‚Œã‚‹ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã�®ã‚»ãƒƒãƒˆã�Œã�‚ã‚Šã�¾ã�™ã€‚",
+			"lang":"ja"
+		},
+		{
+			"value":"Ð‘Ò±Ð» Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ð¼Ð°Ð·Ð¼Ò±Ð½ Ð¼Ð°Ò›Ñ�Ð°Ñ‚Ñ‹ UI Ò¯ÑˆÑ–Ð½ Ð¿Ð°Ð¹Ð´Ð°Ð»Ð°Ð½Ñ‹Ð»Ð°Ñ‚Ñ‹Ð½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒÐ´ÐµÑ€ Ð¶Ð¸Ð½Ð°Ò“Ñ‹Ð½ Ð¸ÐµÐ»ÐµÐ½ÐµÐ´Ñ–.",
+			"lang":"kk"
+		},
+		{
+			"value":"ì�´ í”„ë¡œíŒŒì�¼ì—�ëŠ” ì»¨í…�ì¸  ëŒ€ìƒ� UIì—� ì‚¬ìš©í•  ëª¨ë“ˆ ì„¸íŠ¸ê°€ ìžˆìŠµë‹ˆë‹¤.",
+			"lang":"ko"
+		},
+		{
+			"value":"Dit profiel heeft de set modules die moeten worden gebruikt voor de gebruikersinterface voor contentdoelen.",
+			"lang":"nl"
+		},
+		{
+			"value":"Denne profilen har settet med moduler som skal brukes for grensesnittet for innholdstilpasning.",
+			"lang":"no"
+		},
+		{
+			"value":"Ten profil zawiera zbiÃ³r moduÅ‚Ã³w do uÅ¼ycia dla interfejsu uÅ¼ytkownika personalizowania treÅ›ci.",
+			"lang":"pl"
+		},
+		{
+			"value":"Este perfil tem o conjunto de mÃ³dulos a utilizar para a IU de Direccionamento de conteÃºdo.",
+			"lang":"pt"
+		},
+		{
+			"value":"Este perfil possui o conjunto de mÃ³dulos a ser utilizado para a UI de Destino de ConteÃºdo.",
+			"lang":"pt_BR"
+		},
+		{
+			"value":"Acest profil are un set de module pentru a fi utilizate pentru Content Targeting UI.",
+			"lang":"ro"
+		},
+		{
+			"value":"Ð­Ñ‚Ð¾Ñ‚ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ñ�Ð¾Ð´ÐµÑ€Ð¶Ð¸Ñ‚ Ð½Ð°Ð±Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»ÐµÐ¹, Ð¿Ñ€Ð¸Ð¼ÐµÐ½Ñ�ÐµÐ¼Ñ‹Ñ… Ð´Ð»Ñ� Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑ�ÐºÐ¾Ð³Ð¾ Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹Ñ�Ð° Ñ†ÐµÐ»ÐµÐ²Ñ‹Ñ… Ð¾Ð±ÑŠÐµÐºÑ‚Ð¾Ð² Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»Ð¾Ð².",
+			"lang":"ru"
+		},
+		{
+			"value":"Tento profil mÃ¡ mnoÅ¾inu modulov, ktorÃ© sa pouÅ¾ijÃº pre uÅ¾Ã­vateÄ¾skÃ© rozhranie Zacielenie obsahu.",
+			"lang":"sk"
+		},
+		{
+			"value":"Ta profil vsebuje nabor modulov, ki so namenjeni za uporabniÅ¡ki vmesnik za izbiro vsebine.",
+			"lang":"sl"
+		},
+		{
+			"value":"Profil med de moduler som anvÃ¤nds fÃ¶r grÃ¤nssnittet fÃ¶r mÃ¥lanpassat innehÃ¥ll.",
+			"lang":"sv"
+		},
+		{
+			"value":"à¹‚à¸›à¸£à¹„à¸Ÿà¸¥à¹Œà¸™à¸µà¹‰à¸¡à¸µà¸Šà¸¸à¸”à¸‚à¸­à¸‡à¹‚à¸¡à¸”à¸¹à¸¥à¸—à¸µà¹ˆà¹ƒà¸Šà¹‰à¸ªà¸³à¸«à¸£à¸±à¸š Content Targeting UI",
+			"lang":"th"
+		},
+		{
+			"value":"Bu profil, Ä°Ã§erik Hedefleme kullanÄ±cÄ± arabirimi iÃ§in kullanÄ±lacak modÃ¼ller kÃ¼mesini iÃ§erir.",
+			"lang":"tr"
+		},
+		{
+			"value":"Ð¦ÐµÐ¹ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ð¼Ñ–Ñ�Ñ‚Ð¸Ñ‚ÑŒ Ð½Ð°Ð±Ñ–Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ–Ð², Ñ�ÐºÑ– Ð²Ð¸ÐºÐ¾Ñ€Ð¸Ñ�Ñ‚Ð¾Ð²ÑƒÑŽÑ‚ÑŒÑ�Ñ� Ð´Ð»Ñ� Ñ–Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹Ñ�Ñƒ ÐºÐ¾Ñ€Ð¸Ñ�Ñ‚ÑƒÐ²Ð°Ñ‡Ð° ÐŸÑ€Ð¸Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ� Ð¼Ð°Ñ‚ÐµÑ€Ñ–Ð°Ð»Ñ–Ð².",
+			"lang":"uk"
+		},
+		{
+			"value":"æ­¤æ¦‚è¦�æ–‡ä»¶å…·æœ‰å�¯ä¾›â€œå†…å®¹å®šä½� UIâ€�ä½¿ç”¨çš„æ¨¡å�—é›†ã€‚",
+			"lang":"zh"
+		},
+		{
+			"value":"é€™å€‹è¨­å®šæª”å…·æœ‰è¦�ç”¨æ–¼å…§å®¹å®šä½�ä½¿ç”¨è€…ä»‹é�¢çš„æ¨¡çµ„é›†ã€‚",
+			"lang":"zh_TW"
+		}
+	]
+}

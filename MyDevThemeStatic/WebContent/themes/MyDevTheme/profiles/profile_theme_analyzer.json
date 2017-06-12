@@ -1,0 +1,294 @@
+{
+	"moduleIDs": [
+		"wp_theme_portal_85",
+		"myDev_dynamicContentSpots_85",
+		"wp_toolbar_host",
+		"wp_portlet_css",
+		"wp_one_ui",
+		"wp_one_ui_dijit",
+		"wp_legacy_layouts",
+		"wp_client_ext",
+		"wp_status_bar",
+		"wp_theme_menus",
+		"wp_theme_skin_region",
+		"wp_theme_high_contrast",
+		"wp_layout_windowstates",
+		"wp_portal",
+		"dojo_dom",
+		"dijit_app",
+		"dijit_form",
+		"dijit_layout_basic",
+		"dijit_layout_ext",
+		"wp_wcm_modal_dialog",
+		"dojo_data_ext",
+		"dijit_tree",
+		"dojox_fx",
+		"dojo_node_list",
+		"dojox_charting_all",
+		"dojox_gfx",
+		"dojox_widget_standby"
+	],
+	"metadata":{
+		"com.ibm.portal.Hidden":"true"
+	},
+	"titles": [
+		{
+			"value":"Ø£Ø¯Ø§Ø© ØªØ­Ù„ÙŠÙ„ Ø§Ù„Ù†Ø³Ù‚ Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠ",
+			"lang":"ar"
+		},
+		{
+			"value":"Analitzador de temes",
+			"lang":"ca"
+		},
+		{
+			"value":"AnalyzÃ¡tor motivu",
+			"lang":"cs"
+		},
+		{
+			"value":"Temaanalyse",
+			"lang":"da"
+		},
+		{
+			"value":"Motivanalysefunktion",
+			"lang":"de"
+		},
+		{
+			"value":"Î›ÎµÎ¹Ï„Î¿Ï…Ï�Î³Î¯Î± Î±Î½Î¬Î»Ï…ÏƒÎ·Ï‚ Î¸ÎµÎ¼Î¬Ï„Ï‰Î½",
+			"lang":"el"
+		},
+		{
+			"value":"Theme Analyzer",
+			"lang":"en"
+		},
+		{
+			"value":"Analizador de temas",
+			"lang":"es"
+		},
+		{
+			"value":"Teeman analysointitoiminto",
+			"lang":"fi"
+		},
+		{
+			"value":"Analyseur de thÃ¨me",
+			"lang":"fr"
+		},
+		{
+			"value":"×ž× ×ª×— ×”×¢×¨×›×•×ª",
+			"lang":"he"
+		},
+		{
+			"value":"Analizator teme",
+			"lang":"hr"
+		},
+		{
+			"value":"TÃ©maelemzÅ‘",
+			"lang":"hu"
+		},
+		{
+			"value":"Analizzatore temi",
+			"lang":"it"
+		},
+		{
+			"value":"ãƒ†ãƒ¼ãƒžãƒ»ã‚¢ãƒŠãƒ©ã‚¤ã‚¶ãƒ¼",
+			"lang":"ja"
+		},
+		{
+			"value":"Ð¢Ð°Ò›Ñ‹Ñ€Ñ‹Ð¿Ñ‚Ñ‹ Ñ‚Ð°Ð»Ð´Ð°Ñƒ",
+			"lang":"kk"
+		},
+		{
+			"value":"í…Œë§ˆ ë¶„ì„�ê¸°",
+			"lang":"ko"
+		},
+		{
+			"value":"Thema-analyseprogramma",
+			"lang":"nl"
+		},
+		{
+			"value":"Temaanalysator",
+			"lang":"no"
+		},
+		{
+			"value":"Analizator kompozycji",
+			"lang":"pl"
+		},
+		{
+			"value":"Analisador de temas",
+			"lang":"pt"
+		},
+		{
+			"value":"Theme Analyzer",
+			"lang":"pt_BR"
+		},
+		{
+			"value":"Analizor temÄƒ",
+			"lang":"ro"
+		},
+		{
+			"value":"Ð�Ð½Ð°Ð»Ð¸Ð·Ð°Ñ‚Ð¾Ñ€ Ñ‚ÐµÐ¼Ñ‹",
+			"lang":"ru"
+		},
+		{
+			"value":"AnalyzÃ¡tor tÃ©m",
+			"lang":"sk"
+		},
+		{
+			"value":"Analizator tem",
+			"lang":"sl"
+		},
+		{
+			"value":"Temaanalys",
+			"lang":"sv"
+		},
+		{
+			"value":"à¸•à¸±à¸§à¸§à¸´à¹€à¸„à¸£à¸²à¸°à¸«à¹Œà¸˜à¸µà¸¡",
+			"lang":"th"
+		},
+		{
+			"value":"Tema Analizci",
+			"lang":"tr"
+		},
+		{
+			"value":"Ð�Ð½Ð°Ð»Ñ–Ð·Ð°Ñ‚Ð¾Ñ€ Ñ‚ÐµÐ¼",
+			"lang":"uk"
+		},
+		{
+			"value":"ä¸»é¢˜åˆ†æž�å™¨",
+			"lang":"zh"
+		},
+		{
+			"value":"ä½ˆæ™¯ä¸»é¡Œåˆ†æž�å™¨",
+			"lang":"zh_TW"
+		}
+	],
+	"descriptions": [
+		{
+			"value":"ÙŠØ­ØªÙˆÙŠ Ù…Ù„Ù� Ø§Ù„Ù…ÙˆØ§ØµÙ�Ø§Øª Ù‡Ø°Ø§ Ø¹Ù„Ù‰ Ù…Ø¬Ù…ÙˆØ¹Ø© ÙˆØ­Ø¯Ø§Øª Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„ØªÙŠ Ø³ÙŠØªÙ… Ø§Ø³ØªØ®Ø¯Ø§Ù…Ù‡Ø§ Ù„Ø£Ø¯Ø§Ø© ØªØ­Ù„ÙŠÙ„ Ø§Ù„Ù†Ø³Ù‚ Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠ.",
+			"lang":"ar"
+		},
+		{
+			"value":"Aquest perfil tÃ© un conjunt de mÃ²duls que cal utilitzar per a l'analitzador de temes.",
+			"lang":"ca"
+		},
+		{
+			"value":"Tento profil mÃ¡ sadu modulÅ¯ pro pouÅ¾itÃ­ v analyzÃ¡toru motivu.",
+			"lang":"cs"
+		},
+		{
+			"value":"Denne profil har det sÃ¦t moduler, der skal bruges til brugergrÃ¦nsefladen i Temaanalyse.",
+			"lang":"da"
+		},
+		{
+			"value":"Dieses Profil verfÃ¼gt Ã¼ber den Modulsatz, der fÃ¼r die Motivanalysefunktion verwendet werden soll.",
+			"lang":"de"
+		},
+		{
+			"value":"Î‘Ï…Ï„ÏŒ Ï„Î¿ Ï€Ï�Î¿Ï†Î¯Î» Ï€ÎµÏ�Î¹Î­Ï‡ÎµÎ¹ Ï„Î¹Ï‚ Î»ÎµÎ¹Ï„Î¿Ï…Ï�Î³Î¹ÎºÎ­Ï‚ Î¼Î¿Î½Î¬Î´ÎµÏ‚ Ï€Î¿Ï… Î±Ï€Î±Î¹Ï„Î¿Ï�Î½Ï„Î±Î¹ Î³Î¹Î± Ï„Î· Î»ÎµÎ¹Ï„Î¿Ï…Ï�Î³Î¯Î± Î±Î½Î¬Î»Ï…ÏƒÎ·Ï‚ Î¸ÎµÎ¼Î¬Ï„Ï‰Î½.",
+			"lang":"el"
+		},
+		{
+			"value":"This profile has the set of modules to be used for the Theme Analyzer.",
+			"lang":"en"
+		},
+		{
+			"value":"Este perfil tiene el conjunto de mÃ³dulos que se utilizarÃ¡ para Analizador de temas.",
+			"lang":"es"
+		},
+		{
+			"value":"TÃ¤ssÃ¤ profiilissa on joukko moduuleja, joita kÃ¤ytetÃ¤Ã¤n teeman analysointitoiminnossa.",
+			"lang":"fi"
+		},
+		{
+			"value":"Ce profil contient l'ensemble de modules Ã  utiliser pour l'Analyseur de thÃ¨me.",
+			"lang":"fr"
+		},
+		{
+			"value":"×¤×¨×•×¤×™×œ ×–×” ×›×•×œ×œ ×�×ª ×ž×¢×¨×š ×”×ž×•×“×•×œ×™×� ×”×ž×©×ž×© ×�×ª ×ž× ×ª×— ×”×¢×¨×›×•×ª.",
+			"lang":"he"
+		},
+		{
+			"value":"Ovaj profil ima skup modula koji se koriste za Analizator teme.",
+			"lang":"hr"
+		},
+		{
+			"value":"A profil tartalmazza a TÃ©maelemzÅ‘hÃ¶z hasznÃ¡latos modulok kÃ©szletÃ©t.",
+			"lang":"hu"
+		},
+		{
+			"value":"Questo profilo presente l'insieme di moduli da utilizzare per l'Analizzatore temi.",
+			"lang":"it"
+		},
+		{
+			"value":"ã�“ã�®ãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«ã�«ã�¯ã€�ãƒ†ãƒ¼ãƒžãƒ»ã‚¢ãƒŠãƒ©ã‚¤ã‚¶ãƒ¼ã�«ä½¿ç”¨ã�•ã‚Œã‚‹ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã�®ã‚»ãƒƒãƒˆã�Œã�‚ã‚Šã�¾ã�™ã€‚",
+			"lang":"ja"
+		},
+		{
+			"value":"Ð‘Ò±Ð» Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ð¢Ð°Ò›Ñ‹Ñ€Ñ‹Ð¿ Ñ‚Ð°Ð»Ð´Ð°ÑƒÑˆÑ‹Ñ�Ñ‹ Ò¯ÑˆÑ–Ð½ Ð¿Ð°Ð¹Ð´Ð°Ð»Ð°Ð½Ñ‹Ð»Ð°Ñ‚Ñ‹Ð½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒÐ´ÐµÑ€ Ð¶Ð¸Ð½Ð°Ò“Ñ‹Ð½ Ð¸ÐµÐ»ÐµÐ½ÐµÐ´Ñ–.",
+			"lang":"kk"
+		},
+		{
+			"value":"ì�´ í”„ë¡œíŒŒì�¼ì—�ëŠ” í…Œë§ˆ ë¶„ì„�ê¸°ì—� ì‚¬ìš©í•  ëª¨ë“ˆ ì„¸íŠ¸ê°€ ìžˆìŠµë‹ˆë‹¤.",
+			"lang":"ko"
+		},
+		{
+			"value":"Dit profiel heeft de set modules die moeten worden gebruikt voor het thema-analyseprogramma.",
+			"lang":"nl"
+		},
+		{
+			"value":"Denne profilen har settet med moduler som skal brukes for temaanalysatoren.",
+			"lang":"no"
+		},
+		{
+			"value":"Ten profil zawiera zbiÃ³r moduÅ‚Ã³w do uÅ¼ycia w portlecie Analizator kompozycji.",
+			"lang":"pl"
+		},
+		{
+			"value":"Este perfil tem o conjunto de mÃ³dulos a utilizar para o Analisador de temas.",
+			"lang":"pt"
+		},
+		{
+			"value":"Este perfil possui o conjunto de mÃ³dulos a ser utilizado para o Analisador Theme.",
+			"lang":"pt_BR"
+		},
+		{
+			"value":"Acest profil are un set de module pentru a fi utilizate pentru Analizor temÄƒ.",
+			"lang":"ro"
+		},
+		{
+			"value":"Ð­Ñ‚Ð¾Ñ‚ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ñ�Ð¾Ð´ÐµÑ€Ð¶Ð¸Ñ‚ Ð½Ð°Ð±Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»ÐµÐ¹, Ð¿Ñ€Ð¸Ð¼ÐµÐ½Ñ�ÐµÐ¼Ñ‹Ñ… Ð´Ð»Ñ� Ð°Ð½Ð°Ð»Ð¸Ð·Ð°Ñ‚Ð¾Ñ€Ð° Ñ‚ÐµÐ¼Ñ‹.",
+			"lang":"ru"
+		},
+		{
+			"value":"Tento profil mÃ¡ mnoÅ¾inu modulov, ktorÃ© sa pouÅ¾ijÃº pre AnalyzÃ¡tor tÃ©m.",
+			"lang":"sk"
+		},
+		{
+			"value":"Ta profil vsebuje nabor modulov, ki so namenjeni za Analizator tem.",
+			"lang":"sl"
+		},
+		{
+			"value":"Profil med de moduler som anvÃ¤nds fÃ¶r Temaanalys.",
+			"lang":"sv"
+		},
+		{
+			"value":"à¹‚à¸›à¸£à¹„à¸Ÿà¸¥à¹Œà¸™à¸µà¹‰à¸¡à¸µà¸Šà¸¸à¸”à¸‚à¸­à¸‡à¹‚à¸¡à¸”à¸¹à¸¥à¸—à¸µà¹ˆà¹ƒà¸Šà¹‰à¸ªà¸³à¸«à¸£à¸±à¸š Theme Analyzer",
+			"lang":"th"
+		},
+		{
+			"value":"Bu profil, Tema Analizci iÃ§in kullanÄ±lacak modÃ¼ller kÃ¼mesini iÃ§erir.",
+			"lang":"tr"
+		},
+		{
+			"value":"Ð¦ÐµÐ¹ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ð¼Ñ–Ñ�Ñ‚Ð¸Ñ‚ÑŒ Ð½Ð°Ð±Ñ–Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ–Ð², Ñ�ÐºÑ– Ð²Ð¸ÐºÐ¾Ñ€Ð¸Ñ�Ñ‚Ð¾Ð²ÑƒÑŽÑ‚ÑŒÑ�Ñ� Ð² Ð¿Ð¾Ñ€Ñ‚Ð»ÐµÑ‚Ñ– Ð�Ð½Ð°Ð»Ñ–Ð·Ð°Ñ‚Ð¾Ñ€ Ñ‚ÐµÐ¼.",
+			"lang":"uk"
+		},
+		{
+			"value":"æ­¤æ¦‚è¦�æ–‡ä»¶å…·æœ‰å�¯ä¾›â€œä¸»é¢˜åˆ†æž�å™¨â€�ä½¿ç”¨çš„æ¨¡å�—é›†ã€‚",
+			"lang":"zh"
+		},
+		{
+			"value":"é€™å€‹è¨­å®šæª”å…·æœ‰è¦�ç”¨æ–¼ä½ˆæ™¯ä¸»é¡Œåˆ†æž�å™¨çš„æ¨¡çµ„é›†ã€‚",
+			"lang":"zh_TW"
+		}
+	]
+}

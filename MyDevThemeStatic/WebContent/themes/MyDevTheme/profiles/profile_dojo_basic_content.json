@@ -1,0 +1,294 @@
+{
+	"moduleIDs": [
+		"getting_started_module",
+		"wp_theme_portal_85",
+		"myDev_dynamicContentSpots_85",
+		"wp_toolbar_host_view",
+		"wp_portlet_css",
+		"wp_one_ui",
+		"wp_one_ui_dijit",
+		"wp_client_ext",
+		"wp_status_bar",
+		"wp_theme_menus",
+		"wp_theme_skin_region",
+		"wp_theme_high_contrast",
+		"wp_layout_windowstates",
+		"wp_portal",
+		"wp_tagging_rating_light",
+		"wp_analytics_aggregator",
+		"wp_oob_sample_styles",
+		"wp_ic4_wai_resources",
+		"wp_worklight_ext",
+		"wp_liveobject_framework",
+		"wp_social_rendering_85",
+		"dojo",
+		"wp_sametime_proxy"
+	],
+	"deferredModuleIDs": [
+		"wp_toolbar_host_edit",
+		"wp_analytics_tags",
+		"wp_contextmenu_live_object",
+		"wp_content_targeting_cam",
+		"wcm_inplaceEdit"
+	],
+	"titles": [
+		{
+			"value":"Ø§Ù„Ù…Ø­ØªÙˆÙŠØ§Øª Ø§Ù„Ø£Ø³Ø§Ø³ÙŠØ© Ù…Ø¹ Dojo",
+			"lang":"ar"
+		},
+		{
+			"value":"Contingut bÃ sic amb Dojo",
+			"lang":"ca"
+		},
+		{
+			"value":"ZÃ¡kladnÃ­ obsah se sadou nÃ¡strojÅ¯ Dojo",
+			"lang":"cs"
+		},
+		{
+			"value":"Basisindhold med Dojo",
+			"lang":"da"
+		},
+		{
+			"value":"Basisinhalt mit Dojo",
+			"lang":"de"
+		},
+		{
+			"value":"Î’Î±ÏƒÎ¹ÎºÏŒ Ï€ÎµÏ�Î¹ÎµÏ‡ÏŒÎ¼ÎµÎ½Î¿ Î¼Îµ Dojo",
+			"lang":"el"
+		},
+		{
+			"value":"Basic Content with Dojo",
+			"lang":"en"
+		},
+		{
+			"value":"Contenido bÃ¡sico con Dojo",
+			"lang":"es"
+		},
+		{
+			"value":"PerussisÃ¤ltÃ¶ Dojon kanssa",
+			"lang":"fi"
+		},
+		{
+			"value":"Contenu de base avec Dojo",
+			"lang":"fr"
+		},
+		{
+			"value":"×ª×•×›×Ÿ ×‘×¡×™×¡×™ ×¢×� Dojo",
+			"lang":"he"
+		},
+		{
+			"value":"Osnovni sadrÅ¾aj s Dojom",
+			"lang":"hr"
+		},
+		{
+			"value":"Alap tartalom Dojo-val",
+			"lang":"hu"
+		},
+		{
+			"value":"Contenuto di base con Dojo",
+			"lang":"it"
+		},
+		{
+			"value":"Dojo ã‚’ä½¿ç”¨ã�—ã�ŸåŸºæœ¬ã‚³ãƒ³ãƒ†ãƒ³ãƒ„",
+			"lang":"ja"
+		},
+		{
+			"value":"Basic Content with Dojo",
+			"lang":"kk"
+		},
+		{
+			"value":"ê¸°ë³¸ ì»¨í…�ì¸ (Dojo í�¬í•¨)",
+			"lang":"ko"
+		},
+		{
+			"value":"Standaardcontent met Dojo",
+			"lang":"nl"
+		},
+		{
+			"value":"Grunnleggende innhold med Dojo",
+			"lang":"no"
+		},
+		{
+			"value":"TreÅ›Ä‡ podstawowa z technologiÄ… Dojo",
+			"lang":"pl"
+		},
+		{
+			"value":"ConteÃºdo bÃ¡sico com o Dojo",
+			"lang":"pt"
+		},
+		{
+			"value":"ConteÃºdo BÃ¡sico com Dojo",
+			"lang":"pt_BR"
+		},
+		{
+			"value":"ConÅ£inut de bazÄƒ cu Dojo",
+			"lang":"ro"
+		},
+		{
+			"value":"Ð‘Ð°Ð·Ð¾Ð²Ñ‹Ðµ Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»Ñ‹ - Dojo",
+			"lang":"ru"
+		},
+		{
+			"value":"ZÃ¡kladnÃ½ obsah s Dojo",
+			"lang":"sk"
+		},
+		{
+			"value":"Osnovna vsebina s kompletom orodij Dojo",
+			"lang":"sl"
+		},
+		{
+			"value":"BasinnehÃ¥ll med Dojo",
+			"lang":"sv"
+		},
+		{
+			"value":"à¹€à¸™à¸·à¹‰à¸­à¸«à¸²à¸žà¸·à¹‰à¸™à¸�à¸²à¸™à¸”à¹‰à¸§à¸¢ Dojo",
+			"lang":"th"
+		},
+		{
+			"value":"Dojo Ä°le Temel Ä°Ã§erik",
+			"lang":"tr"
+		},
+		{
+			"value":"Ð‘Ð°Ð·Ð¾Ð²Ñ– Ð¼Ð°Ñ‚ÐµÑ€Ñ–Ð°Ð»Ð¸ Ñ–Ð· Dojo",
+			"lang":"uk"
+		},
+		{
+			"value":"Dojo çš„åŸºæœ¬å†…å®¹",
+			"lang":"zh"
+		},
+		{
+			"value":"ä½¿ç”¨ Dojo çš„åŸºæœ¬å…§å®¹",
+			"lang":"zh_TW"
+		}
+	],
+	"descriptions": [
+		{
+			"value":"ÙŠØ­ØªÙˆÙŠ Ù…Ù„Ù� Ø§Ù„Ù…ÙˆØ§ØµÙ�Ø§Øª Ù‡Ø°Ø§ Ø¹Ù„Ù‰ ÙƒÙ„ Ø´ÙŠØ¡ Ù…Ø·Ù„ÙˆØ¨ Ù„Ù…Ø´Ø§Ù‡Ø¯Ø© ÙˆØªØ­Ø±ÙŠØ± Ø§Ù„Ù…Ø­ØªÙˆÙŠØ§Øª Ø¨Ø§Ù„Ø§Ø¶Ø§Ù�Ø© Ø§Ù„Ù‰ Ø§Ù„Ø§Ù…ÙƒØ§Ù†ÙŠØ§Øª Ù…Ø«Ù„ Ø§Ù„ØªØ¹Ù„ÙŠÙ… Ø¨Ø´Ø§Ø±Ø© ÙˆØ§Ù„ØªÙ‚ÙŠÙŠÙ…ØŒ Ø§Ù„ØªÙ…Ø«ÙŠÙ„ Ø§Ù„Ø¨ÙŠØ§Ù†ÙŠ Ù„Ù„Ø¨ÙŠØ§Ù†Ø§Øª Ø§Ù„Ø§Ø¬ØªÙ…Ø§Ø¹ÙŠØ© ÙˆØ¨Ø·Ø§Ù‚Ø© Ø§Ù„Ø´Ø®Øµ. Ù…Ù„Ù� Ø§Ù„Ù…ÙˆØ§ØµÙ�Ø§Øª Ù‡Ø°Ø§ ÙŠØªØ¶Ù…Ù† dojo.",
+			"lang":"ar"
+		},
+		{
+			"value":"Aquest perfil contÃ© tot el necessari per visualitzar i editar el contingut aixÃ­ com funcions com ara l'Etiquetatge i classificaciÃ³, la Targeta de persona i la RepresentaciÃ³ social. Aquest perfil inclou dojo.",
+			"lang":"ca"
+		},
+		{
+			"value":"Tento profil obsahuje vÅ¡e, co je nezbytnÃ© k zobrazenÃ­ a ÃºpravÄ› obsahu, stejnÄ› jako takovÃ© schopnosti, jako napÅ™. pouÅ¾itÃ­ znaÄ�ek a hodnocenÃ­, karta osoby a vykreslenÃ­ dat ze sociÃ¡lnÃ­ch sÃ­tÃ­. Tento profil zahrnuje sadu nÃ¡strojÅ¯ dojo.",
+			"lang":"cs"
+		},
+		{
+			"value":"Denne profil indeholder alt, der krÃ¦ves til fremvisning og redigering af indhold foruden muligheder for emneordsangivelse og vurdering, personkort og social gengivelse. Profilen indeholder Dojo.",
+			"lang":"da"
+		},
+		{
+			"value":"Dieses Profil enthÃ¤lt alle Elemente, die fÃ¼r die Anzeige und Bearbeitung von Inhalten erforderlich sind, sowie Funktionen wie Tagging und Bewertung, Personenkarte und gemeinschaftliche Darstellung. Dieses Profil umfasst Dojo.  ",
+			"lang":"de"
+		},
+		{
+			"value":"Î‘Ï…Ï„ÏŒ Ï„Î¿ Ï€Ï�Î¿Ï†Î¯Î» Ï€ÎµÏ�Î¹Î­Ï‡ÎµÎ¹ ÏŒÎ»Î± Ï„Î± Î±Ï€Î±Ï�Î±Î¯Ï„Î·Ï„Î± Î±Î½Ï„Î¹ÎºÎµÎ¯Î¼ÎµÎ½Î± Î³Î¹Î± Ï„Î·Î½ Ï€Ï�Î¿Î²Î¿Î»Î® ÎºÎ±Î¹ Ï„Î·Î½ Ï„Ï�Î¿Ï€Î¿Ï€Î¿Î¯Î·ÏƒÎ· Ï€ÎµÏ�Î¹ÎµÏ‡Î¿Î¼Î­Î½Î¿Ï…, ÎºÎ±Î¸ÏŽÏ‚ ÎºÎ±Î¹ Î³Î¹Î± Î´Ï…Î½Î±Ï„ÏŒÏ„Î·Ï„ÎµÏ‚ ÏŒÏ€Ï‰Ï‚ Î· Ï€Ï�Î¿ÏƒÎ¸Î®ÎºÎ· Ï€Ï�Î¿ÏƒÎ´Î¹Î¿Ï�Î¹ÏƒÏ„Î¹ÎºÏŽÎ½ ÎºÎ±Î¹ Î±Î¾Î¹Î¿Î»Î¿Î³Î®ÏƒÎµÏ‰Î½, ÎºÎ¬Ï�Ï„Î± Ï‡Ï�Î®ÏƒÏ„Î· ÎºÎ±Î¹ Î· ÎµÎ¼Ï†Î¬Î½Î¹ÏƒÎ· Ï€ÎµÏ�Î¹ÎµÏ‡Î¿Î¼Î­Î½Î¿Ï… ÎºÎ¿Î¹Î½Ï‰Î½Î¹ÎºÎ®Ï‚ Î´Î¹ÎºÏ„Ï�Ï‰ÏƒÎ·Ï‚. Î‘Ï…Ï„ÏŒ Ï„Î¿ Ï€Ï�Î¿Ï†Î¯Î» Ï€ÎµÏ�Î¹Î»Î±Î¼Î²Î¬Î½ÎµÎ¹ dojo.",
+			"lang":"el"
+		},
+		{
+			"value":"This profile contains everything required for viewing and editing content as well as capabilities such as tagging&rating, person card and social rendering. This profile includes dojo.",
+			"lang":"en"
+		},
+		{
+			"value":"Este perfil contiene todo lo necesario para visualizar y editar el contenido, asÃ­ como funciones como CodificaciÃ³n y valoraciÃ³n, Tarjeta personal y RepresentaciÃ³n social. Este perfil incluye dojo.",
+			"lang":"es"
+		},
+		{
+			"value":"TÃ¤mÃ¤ profiili sisÃ¤ltÃ¤Ã¤ kaiken, mitÃ¤ tarvitaan sisÃ¤llÃ¶n tarkasteluun ja muokkaukseen sekÃ¤ tunnisteiden lisÃ¤ykseen, arviointiin, henkilÃ¶kortteihin ja sosiaaliseen hahmonnukseen. TÃ¤mÃ¤ profiili sisÃ¤ltÃ¤Ã¤ dojo-ominaisuuksia.",
+			"lang":"fi"
+		},
+		{
+			"value":"Ce profil contient tous les Ã©lÃ©ments requis pour l'affichage et l'Ã©dition de contenu ainsi que des capacitÃ©s telles que l'Ã©tiquetage et l'Ã©valuation, carte personnelle et rendu social. Ce profil inclut Dojo.",
+			"lang":"fr"
+		},
+		{
+			"value":"×¤×¨×•×¤×™×œ ×–×” ×›×•×œ×œ ×�×ª ×›×œ ×ž×” ×©× ×—×•×¥ ×œ×”×¦×’×” ×•×œ×¢×¨×™×›×” ×©×œ ×ª×•×›×Ÿ, ×•×›×Ÿ ×™×›×•×œ×•×ª ×›×’×•×Ÿ ×ª×™×•×’ ×•×“×™×¨×•×’, ×›×¨×˜×™×¡ ×�×“×� ×•×”×¦×’×” ×—×‘×¨×ª×™×ª. ×¤×¨×•×¤×™×œ ×–×” ×›×•×œ×œ ×�×ª dojo.â€�",
+			"lang":"he"
+		},
+		{
+			"value":"Ovaj profil sadrÅ¾i sve Å¡to je potrebno za pregled i ureÄ‘ivanje sadrÅ¾aja i moguÄ‡nosti poput oznaÄ�avanja i ocjenjivanja, karticu osobe i druÅ¡tveno prikazivanje. Ovaj profil ukljuÄ�uje dojo.",
+			"lang":"hr"
+		},
+		{
+			"value":"Ez a profil tartalmaz mindent, ami szÃ¼ksÃ©ges a tartalom megjelenÃ­tÃ©sÃ©hez Ã©s szerkesztÃ©sÃ©hez, valamint olyan kÃ©pessÃ©geket, mint a cÃ­mkÃ©zÃ©s Ã©s az Ã©rtÃ©kelÃ©s, a szemÃ©lyes kÃ¡rtya Ã©s a kÃ¶zÃ¶ssÃ©gi elÅ‘Ã¡llÃ­tÃ¡s. A profil dojo-t tartalmaz.",
+			"lang":"hu"
+		},
+		{
+			"value":"Questo profilo contiene tutto ciÃ² che serve per visualizzare e modificare il contenuto, oltre alle capability come tag&valutazione, scheda persona e rendering sociale. Questo profilo include dojo.",
+			"lang":"it"
+		},
+		{
+			"value":"ã�“ã�®ãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«ã�«ã�¯ã€�ã‚¿ã‚°ä»˜ã�‘ã�¨è©•ä¾¡ã€�ãƒ¦ãƒ¼ã‚¶ãƒ¼ãƒ»ã‚«ãƒ¼ãƒ‰ã€�ã‚½ãƒ¼ã‚·ãƒ£ãƒ«ãƒ»ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°ã�ªã�©ã�®æ©Ÿèƒ½ã�®ã�»ã�‹ã€�ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã�®è¡¨ç¤ºã�Šã‚ˆã�³ç·¨é›†ã�«å¿…è¦�ã�ªã�‚ã‚‰ã‚†ã‚‹ã‚‚ã�®ã�Œå�«ã�¾ã‚Œã�¾ã�™ã€‚ã�“ã�®ãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«ã�«ã�¯ Dojo ã�Œå�«ã�¾ã‚Œã�¦ã�„ã�¾ã�™ã€‚",
+			"lang":"ja"
+		},
+		{
+			"value":"Ð‘Ò±Ð» Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» tagging&rating, Ð¶ÐµÐºÐµ ÐºÓ™Ñ€Ñ‚Ñ–ÑˆÐºÐµ Ð¶Ó™Ð½Ðµ Ó™Ð»ÐµÑƒÐ¼ÐµÑ‚Ñ‚Ñ–Ðº ÑˆÑ‹Ò“Ð°Ñ€Ñƒ Ñ�Ð¸Ñ�Ò›Ñ‚Ñ‹ Ð¼Ò¯Ð¼ÐºÑ–Ð½Ð´Ñ–ÐºÑ‚ÐµÑ€Ð´Ñ– Ò›Ð°Ð¼Ñ‚Ð¸Ñ‚Ñ‹Ð½ ÐºÓ©Ñ€Ñ–Ð½Ñ–Ñ� Ð¿ÐµÐ½ Ó©Ò£Ð´ÐµÑƒ Ò¯ÑˆÑ–Ð½ Ñ‚Ð°Ð»Ð°Ð¿ ÐµÑ‚Ñ–Ð»ÐµÑ‚Ñ–Ð½ ÐºÐµÐ· ÐºÐµÐ»Ð³ÐµÐ½Ñ–Ð½ Ò›Ð°Ð¼Ñ‚Ð¸Ð´Ñ‹. Ð‘Ò±Ð» Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» dojo Ñ�Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ–Ð½ Ò›Ð°Ð¼Ñ‚Ð¸Ð´Ñ‹.",
+			"lang":"kk"
+		},
+		{
+			"value":"ì�´ í”„ë¡œíŒŒì�¼ì—�ëŠ” íƒœê·¸ ì§€ì • ë°� ë“±ê¸‰ ì§€ì •, ê°œì�¸ ì¹´ë“œ, ì†Œì…œ ë Œë�”ë§� ë“±ì�˜ ê¸°ëŠ¥ ë°� ì»¨í…�ì¸ ë¥¼ ë³´ê³  íŽ¸ì§‘í•˜ëŠ” ë�° í•„ìš”í•œ ì‚¬í•­ì�´ ëª¨ë‘� í�¬í•¨ë�˜ì–´ ìžˆìŠµë‹ˆë‹¤. ì�´ í”„ë¡œíŒŒì�¼ì—�ëŠ” Dojoê°€ í�¬í•¨ë�©ë‹ˆë‹¤.",
+			"lang":"ko"
+		},
+		{
+			"value":"Dit profiel bevat alles wat nodig is voor het bekijken en bewerken van content en daarnaast functionaliteit zoals tagging & beoordeling, persoonskaarten en social rendering. Dit profiel bevat dojo.",
+			"lang":"nl"
+		},
+		{
+			"value":"Denne profilen inneholder alt som er nÃ¸dvendig for Ã¥ vise og redigere innhold, og funksjonalitet som merking og vurdering, personkort og sosial gjengivelse. Denne profilen inkluderer dojo.",
+			"lang":"no"
+		},
+		{
+			"value":"Ten profil zawiera wszystkie elementy wymagane do wyÅ›wietlania i edytowania treÅ›ci oraz moÅ¼liwoÅ›ci, takie jak oznaczanie i ocenianie, wizytÃ³wki i wyÅ›wietlanie spoÅ‚ecznoÅ›ciowe. Ten profil zawiera technologiÄ™ Dojo.",
+			"lang":"pl"
+		},
+		{
+			"value":"Este perfil contÃ©m todos os itens requeridos para visualizar e editar conteÃºdo, bem como capacidade como atribuiÃ§Ã£o de etiquetas e avaliaÃ§Ã£o, cartÃ£o de pessoa e apresentaÃ§Ã£o social. Este perfil inclui o dojo.",
+			"lang":"pt"
+		},
+		{
+			"value":"Este perfil contÃ©m tudo que Ã© necessÃ¡rio para visualizar e editar conteÃºdo, bem como recursos de identificaÃ§Ã£o e classificaÃ§Ã£o, cartÃ£o pessoal e renderizaÃ§Ã£o social. Esse perfil inclui dojo.",
+			"lang":"pt_BR"
+		},
+		{
+			"value":"Acest profil conÅ£ine tot ce este necesar pentru vizualizarea ÅŸi editarea conÅ£inutului, precum ÅŸi capabilitÄƒÅ£i cum ar fi marcarea prin tag ÅŸi evaluarea, cardul de persoanÄƒ ÅŸi randarea socialÄƒ. Acest profil inlude dojo.",
+			"lang":"ro"
+		},
+		{
+			"value":"Ð­Ñ‚Ð¾Ñ‚ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ñ�Ð¾Ð´ÐµÑ€Ð¶Ð¸Ñ‚ Ð²Ñ�Ðµ Ð½ÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ð¾Ðµ Ð´Ð»Ñ� Ð¿Ñ€Ð¾Ñ�Ð¼Ð¾Ñ‚Ñ€Ð° Ð¸ Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ� Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»Ð¾Ð², Ð° Ñ‚Ð°ÐºÐ¶Ðµ Ñ€Ð°Ð·Ð»Ð¸Ñ‡Ð½Ñ‹Ðµ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¸, Ð½Ð°Ð¿Ñ€Ð¸Ð¼ÐµÑ€, Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¸ Ñ‚ÐµÐ³Ð¾Ð² Ð¸ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð°, Ð»Ð¸Ñ‡Ð½Ð¾Ð¹ ÐºÐ°Ñ€Ñ‚Ð¾Ñ‡ÐºÐ¸ Ð¸ Ñ�Ð¾Ñ†Ð¸Ð°Ð»ÑŒÐ½Ð¾Ð³Ð¾ Ð²Ñ‹Ð²Ð¾Ð´Ð°. Ð’ Ñ�Ð¾Ñ�Ñ‚Ð°Ð² Ñ�Ñ‚Ð¾Ð³Ð¾ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð»Ð° Ð²Ñ…Ð¾Ð´Ð¸Ñ‚ dojo.",
+			"lang":"ru"
+		},
+		{
+			"value":"Tento profil obsahuje vÅ¡etko potrebnÃ© na prezeranie a Ãºpravu obsahu, ako aj schopnosti, ako naprÃ­klad znaÄ�kovanie a hodnotenie, karty osoby a sociÃ¡lne renderovanie. Tento profil zahÅ•Åˆa dojo.",
+			"lang":"sk"
+		},
+		{
+			"value":"Ta profil vsebuje vse potrebno za ogledovanje in urejanje vsebine, kot tudi zmoÅ¾nosti, kot so oznaÄ�evanje in ocenjevanje, osebne vizitke ter druÅ¾abno upodabljanje. Ta profil vkljuÄ�uje komplet orodij Dojo.",
+			"lang":"sl"
+		},
+		{
+			"value":"Profil med det som krÃ¤vs fÃ¶r att Ã¶ppna och redigera innehÃ¥ll samt funktioner fÃ¶r mÃ¤rkning, gradering, personkort och rendering av sociala objekt. InnehÃ¥ller Dojo.",
+			"lang":"sv"
+		},
+		{
+			"value":"à¹‚à¸›à¸£à¹„à¸Ÿà¸¥à¹Œà¸™à¸µà¹‰à¸¡à¸µà¸—à¸¸à¸�à¸ªà¸´à¹ˆà¸‡à¸—à¸µà¹ˆà¸ˆà¸³à¹€à¸›à¹‡à¸™à¸ªà¸³à¸«à¸£à¸±à¸šà¸�à¸²à¸£à¸”à¸¹à¹�à¸¥à¸°à¹�à¸�à¹‰à¹„à¸‚à¹€à¸™à¸·à¹‰à¸­à¸«à¸²à¸žà¸£à¹‰à¸­à¸¡à¸�à¸±à¸šà¸„à¸§à¸²à¸¡à¸ªà¸²à¸¡à¸²à¸£à¸–à¸­à¸·à¹ˆà¸™à¹† à¹€à¸Šà¹ˆà¸™ à¸�à¸²à¸£à¹�à¸—à¹‡à¸�&à¸�à¸²à¸£à¸¥à¸‡à¸„à¸°à¹�à¸™à¸™, à¸™à¸²à¸¡à¸šà¸±à¸•à¸£à¹�à¸¥à¸°à¸�à¸²à¸£à¹�à¸ªà¸”à¸‡à¸œà¸¥à¸—à¸²à¸‡à¸ªà¸±à¸‡à¸„à¸¡ à¹‚à¸›à¸£à¹„à¸Ÿà¸¥à¹Œà¸™à¸µà¹‰à¸¡à¸µ dojo",
+			"lang":"th"
+		},
+		{
+			"value":"Bu profil, iÃ§erik gÃ¶rÃ¼ntÃ¼lemek ve dÃ¼zenlemek iÃ§in gereken tÃ¼m araÃ§larÄ±n yanÄ± sÄ±ra, etiketleme, deÄŸerleme, kiÅŸi kartÄ± ve sosyal gÃ¶rsel gerÃ§ekleÅŸtirme gibi yetenekleri de iÃ§erir. Bu profil Dojo'yu iÃ§erir.",
+			"lang":"tr"
+		},
+		{
+			"value":"Ð¦ÐµÐ¹ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ð¼Ñ–Ñ�Ñ‚Ð¸Ñ‚ÑŒ ÑƒÑ�Ðµ Ð½ÐµÐ¾Ð±Ñ…Ñ–Ð´Ð½Ðµ Ð´Ð»Ñ� Ð¿ÐµÑ€ÐµÐ³Ð»Ñ�Ð´Ñƒ Ð¹ Ñ€ÐµÐ´Ð°Ð³ÑƒÐ²Ð°Ð½Ð½Ñ� Ð¼Ð°Ñ‚ÐµÑ€Ñ–Ð°Ð»Ñ–Ð², Ð° Ñ‚Ð°ÐºÐ¾Ð¶ Ð´Ð¾Ð´Ð°Ñ‚ÐºÐ¾Ð²Ñ– Ñ„ÑƒÐ½ÐºÑ†Ñ–Ñ—, Ð½Ð°Ð¿Ñ€Ð¸ÐºÐ»Ð°Ð´, Ð¿Ñ€Ð¸Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ� Ñ‚ÐµÐ³Ñ–Ð² Ñ‚Ð° Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ñƒ, Ð¾Ñ�Ð¾Ð±Ð¸Ñ�Ñ‚Ñ– ÐºÐ°Ñ€Ñ‚Ð¸ Ñ‚Ð° Ð²Ð¸Ð²Ñ–Ð´ Ð¼Ð°Ñ‚ÐµÑ€Ñ–Ð°Ð»Ñ–Ð² Ñƒ Ñ�Ð¾Ñ†Ñ–Ð°Ð»ÑŒÐ½Ð¸Ñ… Ð¼ÐµÑ€ÐµÐ¶Ð°Ñ…. Ð¦ÐµÐ¹ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ð²ÐºÐ»ÑŽÑ‡Ð°Ñ” Dojo.",
+			"lang":"uk"
+		},
+		{
+			"value":"æ­¤æ¦‚è¦�æ–‡ä»¶åŒ…å�«æŸ¥çœ‹å’Œç¼–è¾‘å†…å®¹ä»¥å�Šè¯¸å¦‚æ ‡è®°å’Œè¯„åˆ†ã€�äººå‘˜å�¡å’Œç¤¾äº¤å‘ˆçŽ°æ‰€éœ€çš„ä¸€åˆ‡å†…å®¹ã€‚æ­¤æ¦‚è¦�æ–‡ä»¶åŒ…å�« Dojoã€‚",
+			"lang":"zh"
+		},
+		{
+			"value":"æ­¤è¨­å®šæª”åŒ…å�«æª¢è¦–å�Šç·¨è¼¯å…§å®¹æ‰€éœ€çš„æ‰€æœ‰å…§å®¹ï¼Œä»¥å�Šæ¨™è¨˜èˆ‡è©•æ¯”ã€�äººå“¡å�¡å’Œç¤¾äº¤å‘ˆç�¾ä¹‹é¡žçš„åŠŸèƒ½ã€‚æ­¤è¨­å®šæª”ä½µå…¥ dojoã€‚",
+			"lang":"zh_TW"
+		}
+	]
+}

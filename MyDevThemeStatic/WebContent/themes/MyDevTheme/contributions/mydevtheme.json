@@ -1,0 +1,65 @@
+{
+	"modules": [
+		{
+			"id":"my_dev_module2",
+			"contributions": [
+				{
+					"type":"head",
+					"sub-contributions": [
+											{
+							"type":"css",
+							"uris": [
+								{
+									"value":"/css/mydevtest2.css"
+								}
+							]
+						}
+					]
+				},
+				{
+					"type":"config",
+					"sub-contributions": [
+											{
+							"type":"js",
+							"uris": [
+								{
+									"value":"/js/mydevtest2.js"
+								},
+								{
+									"value":"/js/mydevtest2_mobile.js",
+									"deviceClass":"smartphone"
+								},
+								{
+									"value":"/js/nls/mydevtest2_fr.js",
+									"lang":"fr"
+								}
+							]
+						},
+						{
+							"type":"markup",
+							"uris": [
+								{
+									"value":"/menuDefinitions/templates/myDevTemplate.html"
+								}
+							
+							]
+						}
+					]
+				}
+			],
+			"titles": [
+				{
+					"value":"Dev Module 2 title",
+					"lang":"en"
+				}
+			],
+			"descriptions": [
+				
+				{
+					"value":"Dev modules 2 description ",
+					"lang":"en"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,294 @@
+{
+	"moduleIDs": [
+		"getting_started_module",
+		"wp_theme_portal_85",
+		"myDev_dynamicContentSpots_85",
+		"wp_toolbar_host_view",
+		"wp_portlet_css",
+		"wp_one_ui",
+		"wp_one_ui_dijit",
+		"wp_legacy_layouts",
+		"wp_client_ext",
+		"wp_status_bar",
+		"wp_theme_menus",
+		"wp_theme_skin_region",
+		"wp_theme_high_contrast",
+		"wp_layout_windowstates",
+		"wp_portal",
+		"wp_tagging_rating_light",
+		"wp_analytics_aggregator",
+		"wp_oob_sample_styles",
+		"wp_liveobject_framework",
+		"wp_ic4_wai_resources"
+	],
+	"deferredModuleIDs": [
+		"wp_toolbar_host_edit",
+		"wp_contextmenu_live_object",
+		"wp_content_targeting_cam",
+		"wcm_inplaceEdit",
+		"wp_federated_documents_picker"
+	],
+	"metadata":{
+		"com.ibm.portal.Hidden":"true"
+	},
+	"titles": [
+		{
+			"value":"Portlet Ø§Ù„Ù…Ø³ØªÙ‡Ø¯Ù� Ù„Ù„Ù…Ø­ØªÙˆÙŠØ§Øª",
+			"lang":"ar"
+		},
+		{
+			"value":"Portlet de destinaciÃ³ de contingut",
+			"lang":"ca"
+		},
+		{
+			"value":"Portlet cÃ­lenÃ­ obsahu",
+			"lang":"cs"
+		},
+		{
+			"value":"Miniportalen MÃ¥lretning af indhold",
+			"lang":"da"
+		},
+		{
+			"value":"Gestaltung von Inhalten fÃ¼r Zielgruppen â€“ Portlet",
+			"lang":"de"
+		},
+		{
+			"value":"ÎœÎ¹ÎºÏ�Î¿ÎµÏ†Î±Ï�Î¼Î¿Î³Î® Ï€Ï�Î»Î·Ï‚ ÏƒÏ„ÏŒÏ‡ÎµÏ…ÏƒÎ·Ï‚ Ï€ÎµÏ�Î¹ÎµÏ‡Î¿Î¼Î­Î½Î¿Ï…",
+			"lang":"el"
+		},
+		{
+			"value":"Content Targeting Portlet",
+			"lang":"en"
+		},
+		{
+			"value":"Portlet de destino de contenido",
+			"lang":"es"
+		},
+		{
+			"value":"SisÃ¤llÃ¶n kohdistaminen -portaalisovelma",
+			"lang":"fi"
+		},
+		{
+			"value":"Portlet Ciblage de contenu",
+			"lang":"fr"
+		},
+		{
+			"value":"×¤×•×¨×˜×œ×˜ ×™×™×¢×•×“ ×ª×•×›×Ÿ",
+			"lang":"he"
+		},
+		{
+			"value":"Portlet za ciljani sadrÅ¾aj",
+			"lang":"hr"
+		},
+		{
+			"value":"TartalomcÃ©lzÃ¡s portlet",
+			"lang":"hu"
+		},
+		{
+			"value":"Portlet Assegnazione del contenuto",
+			"lang":"it"
+		},
+		{
+			"value":"ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ãƒ»ã‚¿ãƒ¼ã‚²ãƒƒãƒˆæ±ºå®šãƒ�ãƒ¼ãƒˆãƒ¬ãƒƒãƒˆ",
+			"lang":"ja"
+		},
+		{
+			"value":"ÐœÐ°Ð·Ð¼Ò±Ð½Ð´Ñ‹ Ð¼Ð°Ò›Ñ�Ð°Ñ‚Ñ‚Ð°Ñƒ Ð¿Ð¾Ñ€Ñ‚Ð»ÐµÑ‚Ñ–",
+			"lang":"kk"
+		},
+		{
+			"value":"ì»¨í…�ì¸  ëŒ€ìƒ� í�¬í‹€ë¦¿",
+			"lang":"ko"
+		},
+		{
+			"value":"Portlet Contenttargeting",
+			"lang":"nl"
+		},
+		{
+			"value":"Innholdstilpasningsportlett",
+			"lang":"no"
+		},
+		{
+			"value":"Portlet personalizowania treÅ›ci",
+			"lang":"pl"
+		},
+		{
+			"value":"Portlet de direccionamento de conteÃºdo",
+			"lang":"pt"
+		},
+		{
+			"value":"Portlet de Destino de ConteÃºdo",
+			"lang":"pt_BR"
+		},
+		{
+			"value":"Portlet de Å£intire conÅ£inut",
+			"lang":"ro"
+		},
+		{
+			"value":"ÐŸÐ¾Ñ€Ñ‚Ð»ÐµÑ‚ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð¸Ñ� Ñ†ÐµÐ»ÐµÐ²Ñ‹Ñ… Ð¾Ð±ÑŠÐµÐºÑ‚Ð¾Ð² Ð´Ð»Ñ� Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»Ð¾Ð²",
+			"lang":"ru"
+		},
+		{
+			"value":"Portlet Zacielenie obsahu",
+			"lang":"sk"
+		},
+		{
+			"value":"Portalski programÄ�ek za doloÄ�anje  cilja vsebine",
+			"lang":"sl"
+		},
+		{
+			"value":"Portlet fÃ¶r mÃ¥lanpassat innehÃ¥ll",
+			"lang":"sv"
+		},
+		{
+			"value":"à¸žà¸­à¸£à¹Œà¸•à¹€à¸¥à¹‡à¸•à¸�à¸²à¸£à¸�à¸³à¸«à¸™à¸”à¹€à¸›à¹‰à¸²à¸«à¸¡à¸²à¸¢à¹€à¸™à¸·à¹‰à¸­à¸«à¸²",
+			"lang":"th"
+		},
+		{
+			"value":"Ä°Ã§erik Hedefleme Portal UygulamacÄ±ÄŸÄ±",
+			"lang":"tr"
+		},
+		{
+			"value":"ÐŸÐ¾Ñ€Ñ‚Ð»ÐµÑ‚ Ð¿Ñ€Ð°Ð²Ð¸Ð» Ð¿Ñ€Ð¸Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ� Ð¼Ð°Ñ‚ÐµÑ€Ñ–Ð°Ð»Ñ–Ð²",
+			"lang":"uk"
+		},
+		{
+			"value":"å†…å®¹å®šä½� portlet",
+			"lang":"zh"
+		},
+		{
+			"value":"å…§å®¹å®šä½� Portlet",
+			"lang":"zh_TW"
+		}
+	],
+	"descriptions": [
+		{
+			"value":"ÙŠØªÙ… Ø§Ø³ØªØ®Ø¯Ø§Ù… Ù…Ù„Ù� Ø§Ù„Ù…ÙˆØ§ØµÙ�Ø§Øª Ù‡Ø°Ø§ Ù„Ù„ØµÙ�Ø­Ø© Ø§Ù„ØªÙŠ ØªØªØ¶Ù…Ù† portlet Ø§Ù„Ù…Ø³ØªÙ‡Ø¯Ù� Ù„Ù„Ù…Ø­ØªÙˆÙŠØ§Øª.",
+			"lang":"ar"
+		},
+		{
+			"value":"Aquest perfil s'utilitza per la pÃ gina que contÃ© el portlet de destinaciÃ³ de contingut.",
+			"lang":"ca"
+		},
+		{
+			"value":"Tento profil se pouÅ¾Ã­vÃ¡ pro strÃ¡nku obsahujÃ­cÃ­ portlet cÃ­lenÃ­ obsahu.",
+			"lang":"cs"
+		},
+		{
+			"value":"Denne profil anvendes til siden, som indeholder miniportalen MÃ¥lretning af indhold.",
+			"lang":"da"
+		},
+		{
+			"value":"Dieses Profil wird fÃ¼r die Seite verwendet, die das Portlet 'Gestaltung von Inhalten fÃ¼r Zielgruppen' enthÃ¤lt.",
+			"lang":"de"
+		},
+		{
+			"value":"Î‘Ï…Ï„ÏŒ Ï„Î¿ Ï€Ï�Î¿Ï†Î¯Î» Ï‡Ï�Î·ÏƒÎ¹Î¼Î¿Ï€Î¿Î¹ÎµÎ¯Ï„Î±Î¹ Î³Î¹Î± Ï„Î· ÏƒÎµÎ»Î¯Î´Î± Ï€Î¿Ï… Ï€ÎµÏ�Î¹Î­Ï‡ÎµÎ¹ Ï„Î· Î¼Î¹ÎºÏ�Î¿ÎµÏ†Î±Ï�Î¼Î¿Î³Î® Ï€Ï�Î»Î·Ï‚ ÏƒÏ„ÏŒÏ‡ÎµÏ…ÏƒÎ·Ï‚ Ï€ÎµÏ�Î¹ÎµÏ‡Î¿Î¼Î­Î½Î¿Ï….",
+			"lang":"el"
+		},
+		{
+			"value":"This profile is used for the page that contains the content targeting portlet.",
+			"lang":"en"
+		},
+		{
+			"value":"Este perfil se utiliza para la pÃ¡gina que contiene el portlet de destino de contenido.",
+			"lang":"es"
+		},
+		{
+			"value":"TÃ¤tÃ¤ profiilia kÃ¤ytetÃ¤Ã¤n SisÃ¤llÃ¶n kohdistaminen -portaalisovelman sisÃ¤ltÃ¤mÃ¤lle sivulle.",
+			"lang":"fi"
+		},
+		{
+			"value":"Ce profil est utilisÃ© pour la page qui contient le portlet de ciblage de contenu.",
+			"lang":"fr"
+		},
+		{
+			"value":"×¤×¨×•×¤×™×œ ×–×” ×ž×©×ž×© ×¢×‘×•×¨ ×”×“×£ ×”×ž×›×™×œ ×�×ª ×¤×•×¨×˜×œ×˜ ×™×™×¢×•×“ ×”×ª×•×›×Ÿ.",
+			"lang":"he"
+		},
+		{
+			"value":"Ovaj profil se koristi za stranicu koja sadrÅ¾i portlet za ciljani sadrÅ¾aj.",
+			"lang":"hr"
+		},
+		{
+			"value":"A profil a TartalomcÃ©lzÃ¡s portletet tartalmazÃ³ oldalhoz hasznÃ¡latos.",
+			"lang":"hu"
+		},
+		{
+			"value":"Questo profilo Ã¨ utilizzato per la pagina che contiene il portlet di associazione contenuto.",
+			"lang":"it"
+		},
+		{
+			"value":"ã�“ã�®ãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«ã�¯ã€�ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ãƒ»ã‚¿ãƒ¼ã‚²ãƒƒãƒˆæ±ºå®šãƒ�ãƒ¼ãƒˆãƒ¬ãƒƒãƒˆã‚’å�«ã‚€ãƒšãƒ¼ã‚¸ã�«ä½¿ç”¨ã�•ã‚Œã�¾ã�™ã€‚",
+			"lang":"ja"
+		},
+		{
+			"value":"Ð‘Ò±Ð» Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ð¼Ð°Ð·Ð¼Ò±Ð½Ð´Ñ‹ Ð¼Ð°Ò›Ñ�Ð°Ñ‚Ñ‚Ð°Ñƒ Ð¿Ð¾Ñ€Ñ‚Ð»ÐµÑ‚Ñ–Ð½ Ò›Ð°Ð¼Ñ‚Ð¸Ñ‚Ñ‹Ð½ Ð±ÐµÑ‚ Ò¯ÑˆÑ–Ð½ Ò›Ð¾Ð»Ð´Ð°Ð½Ñ‹Ð»Ð°Ð´Ñ‹.",
+			"lang":"kk"
+		},
+		{
+			"value":"ì�´ í”„ë¡œíŒŒì�¼ì�€ ì»¨í…�ì¸  ëŒ€ìƒ� í�¬í‹€ë¦¿ì�´ í�¬í•¨ë�œ íŽ˜ì�´ì§€ì—� ì‚¬ìš©ë�©ë‹ˆë‹¤.",
+			"lang":"ko"
+		},
+		{
+			"value":"Dit profiel wordt gebruikt voor de pagina die de portlet voor contenttargeting bevat.",
+			"lang":"nl"
+		},
+		{
+			"value":"Denne profilen brukes for siden som inneholder innholdstilpasningsportletten.",
+			"lang":"no"
+		},
+		{
+			"value":"Ten profil jest uÅ¼ywany dla strony zawierajÄ…cej portlet personalizowania treÅ›ci.",
+			"lang":"pl"
+		},
+		{
+			"value":"Este perfil Ã© utilizado para a pÃ¡gina que contÃ©m a portlet de direccionamento de conteÃºdo.",
+			"lang":"pt"
+		},
+		{
+			"value":"Este perfil Ã© usado para a pÃ¡gina que contÃ©m  o portlet de destino de conteÃºdo.",
+			"lang":"pt_BR"
+		},
+		{
+			"value":"Acest profil este folosit pentru pagina care conÅ£ine portletul de Å£intire conÅ£inut.",
+			"lang":"ro"
+		},
+		{
+			"value":"Ð­Ñ‚Ð¾Ñ‚ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ð¸Ñ�Ð¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚Ñ�Ñ� Ð´Ð»Ñ� Ñ�Ñ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹, Ñ�Ð¾Ð´ÐµÑ€Ð¶Ð°Ñ‰ÐµÐ¹ Ð¿Ð¾Ñ€Ñ‚Ð»ÐµÑ‚ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð¸Ñ� Ñ†ÐµÐ»ÐµÐ²Ñ‹Ñ… Ð¾Ð±ÑŠÐµÐºÑ‚Ð¾Ð² Ð´Ð»Ñ� Ð¼Ð°Ñ‚ÐµÑ€Ð¸Ð°Ð»Ð¾Ð².",
+			"lang":"ru"
+		},
+		{
+			"value":"Tento profil sa pouÅ¾Ã­va pre strÃ¡nku, ktorÃ¡ obsahuje portlet zacielenia obsahu.",
+			"lang":"sk"
+		},
+		{
+			"value":"Ta profil se uporablja za stran, ki vsebuje portalski programÄ�ek za doloÄ�anje cilja vsebine.",
+			"lang":"sl"
+		},
+		{
+			"value":"Profil fÃ¶r sidan som innehÃ¥ller portleten fÃ¶r mÃ¥lanpassat innehÃ¥ll.",
+			"lang":"sv"
+		},
+		{
+			"value":"à¹‚à¸›à¸£à¹„à¸Ÿà¸¥à¹Œà¸™à¸µà¹‰à¹ƒà¸Šà¹‰à¸ªà¸³à¸«à¸£à¸±à¸šà¹€à¸žà¸ˆà¸—à¸µà¹ˆà¸¡à¸µà¸žà¸­à¸£à¹Œà¸•à¹€à¸¥à¹‡à¸•à¸�à¸²à¸£à¸�à¸³à¸«à¸™à¸”à¹€à¸›à¹‰à¸²à¸«à¸¡à¸²à¸¢à¹€à¸™à¸·à¹‰à¸­à¸«à¸²",
+			"lang":"th"
+		},
+		{
+			"value":"Bu profil, iÃ§erik hedefleme portal uygulamacÄ±ÄŸÄ±nÄ± iÃ§eren sayfa iÃ§in kullanÄ±lÄ±r.",
+			"lang":"tr"
+		},
+		{
+			"value":"Ð¦ÐµÐ¹ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ð²Ð¸ÐºÐ¾Ñ€Ð¸Ñ�Ñ‚Ð¾Ð²ÑƒÑ”Ñ‚ÑŒÑ�Ñ� Ð´Ð»Ñ� Ñ�Ñ‚Ð¾Ñ€Ñ–Ð½ÐºÐ¸, Ñ�ÐºÐ° Ð¼Ñ–Ñ�Ñ‚Ð¸Ñ‚ÑŒ Ð¿Ð¾Ñ€Ñ‚Ð»ÐµÑ‚ Ð¿Ñ€Ð°Ð²Ð¸Ð» Ð¿Ñ€Ð¸Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ� Ð¼Ð°Ñ‚ÐµÑ€Ñ–Ð°Ð»Ñ–Ð².",
+			"lang":"uk"
+		},
+		{
+			"value":"æ­¤æ¦‚è¦�æ–‡ä»¶ç”¨äºŽåŒ…å�«å†…å®¹å®šä½� portlet çš„é¡µé�¢ã€‚",
+			"lang":"zh"
+		},
+		{
+			"value":"æ­¤è¨­å®šæª”ç”¨æ–¼åŒ…å�«å…§å®¹å®šä½� Portlet çš„é �é�¢ã€‚",
+			"lang":"zh_TW"
+		}
+	]
+}

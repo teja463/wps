@@ -1,0 +1,292 @@
+{
+	"moduleIDs": [
+		"getting_started_module",
+		"wp_theme_portal_85",
+		"myDev_dynamicContentSpots_85",
+		"wp_toolbar_host_view",
+		"wp_portlet_css",
+		"wp_one_ui",
+		"wp_one_ui_dijit",
+		"wp_client_ext",
+		"wp_status_bar",
+		"wp_theme_menus",
+		"wp_theme_skin_region",
+		"wp_theme_high_contrast",
+		"wp_layout_windowstates",
+		"wp_portal",
+		"wp_analytics_aggregator",
+		"wp_oob_sample_styles",
+		"wp_ic4_wai_resources",
+		"wp_worklight_ext",
+		"wp_webdock",
+		"wp_social_rendering_85",
+		"wp_sametime_proxy"
+	],
+	"deferredModuleIDs": [
+		"wp_toolbar_host_edit",
+		"wp_analytics_tags",
+		"wp_contextmenu_live_object",
+		"wp_content_targeting_cam",
+		"wcm_inplaceEdit"
+	],
+	"titles": [
+		{
+			"value":"Ø§Ù„Ø­Ø§Ù‚ Ø¹Ù†ÙˆØ§Ù† Ø§Ù„Ø§Ù†ØªØ±Ù†Øª",
+			"lang":"ar"
+		},
+		{
+			"value":"Acoblador web",
+			"lang":"ca"
+		},
+		{
+			"value":"WebovÃ½ dok",
+			"lang":"cs"
+		},
+		{
+			"value":"WebfastgÃ¸relse",
+			"lang":"da"
+		},
+		{
+			"value":"Web Dock",
+			"lang":"de"
+		},
+		{
+			"value":"Î‘Î³ÎºÏ�Ï�Ï‰ÏƒÎ· Î´Î¹Î±Î´Î¹ÎºÏ„Ï…Î±ÎºÎ¿Ï� Ï€ÎµÏ�Î¹ÎµÏ‡Î¿Î¼Î­Î½Î¿Ï…",
+			"lang":"el"
+		},
+		{
+			"value":"Web Dock",
+			"lang":"en"
+		},
+		{
+			"value":"Web Dock",
+			"lang":"es"
+		},
+		{
+			"value":"Web-telakointi",
+			"lang":"fi"
+		},
+		{
+			"value":"Ancrage Web",
+			"lang":"fr"
+		},
+		{
+			"value":"Web Dock",
+			"lang":"he"
+		},
+		{
+			"value":"Web Dock",
+			"lang":"hr"
+		},
+		{
+			"value":"Webdokk",
+			"lang":"hu"
+		},
+		{
+			"value":"Magazzino Web",
+			"lang":"it"
+		},
+		{
+			"value":"Web ãƒ‰ãƒƒã‚¯",
+			"lang":"ja"
+		},
+		{
+			"value":"Ð’ÐµÐ±Ñ‚Ñ– Ð±ÐµÐºÑ–Ñ‚Ñƒ",
+			"lang":"kk"
+		},
+		{
+			"value":"ì›¹ ë�„í�¬",
+			"lang":"ko"
+		},
+		{
+			"value":"Web Dock",
+			"lang":"nl"
+		},
+		{
+			"value":"Web Dock",
+			"lang":"no"
+		},
+		{
+			"value":"Dokowanie WWW",
+			"lang":"pl"
+		},
+		{
+			"value":"Acoplamento da Web",
+			"lang":"pt"
+		},
+		{
+			"value":"Web Dock",
+			"lang":"pt_BR"
+		},
+		{
+			"value":"Web Dock",
+			"lang":"ro"
+		},
+		{
+			"value":"Web Dock",
+			"lang":"ru"
+		},
+		{
+			"value":"Web Dock",
+			"lang":"sk"
+		},
+		{
+			"value":"Spletno sidriÅ¡Ä�e",
+			"lang":"sl"
+		},
+		{
+			"value":"Webbdockning",
+			"lang":"sv"
+		},
+		{
+			"value":"Web Dock",
+			"lang":"th"
+		},
+		{
+			"value":"Web Havuzu",
+			"lang":"tr"
+		},
+		{
+			"value":"Web Dock",
+			"lang":"uk"
+		},
+		{
+			"value":"Web Dock",
+			"lang":"zh"
+		},
+		{
+			"value":"Web å®šç½®",
+			"lang":"zh_TW"
+		}
+	],
+	"descriptions": [
+		{
+			"value":"ÙŠØ­ØªÙˆÙŠ Ù…Ù„Ù� Ø§Ù„Ù…ÙˆØ§ØµÙ�Ø§Øª Ù‡Ø°Ø§ Ø¹Ù„Ù‰ Ù…Ø¬Ù…ÙˆØ¹Ø© ÙˆØ­Ø¯Ø§Øª Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ø§Ù„ØªÙŠ Ø³ÙŠØªÙ… Ø§Ø³ØªØ®Ø¯Ø§Ù…Ù‡Ø§ Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ø§Ù„Ø­Ø§Ù‚ Ø¹Ù†ÙˆØ§Ù† Ø§Ù„Ø§Ù†ØªØ±Ù†Øª.",
+			"lang":"ar"
+		},
+		{
+			"value":"Aquest perfil tÃ© el conjunt de mÃ²duls que cal utilitzar per a les aplicacions de l'acoblador web.",
+			"lang":"ca"
+		},
+		{
+			"value":"Tento profil mÃ¡ sadu modulÅ¯ pro pouÅ¾itÃ­ v aplikacÃ­ch webovÃ©ho doku.",
+			"lang":"cs"
+		},
+		{
+			"value":"Denne profil har det sÃ¦t moduler, der skal bruges til webfastgÃ¸relsesprogrammer.",
+			"lang":"da"
+		},
+		{
+			"value":"Dieses Profil verfÃ¼gt Ã¼ber den Modulsatz, der fÃ¼r die Web Dock-Anwendungen verwendet werden soll.",
+			"lang":"de"
+		},
+		{
+			"value":"Î‘Ï…Ï„ÏŒ Ï„Î¿ Ï€Ï�Î¿Ï†Î¯Î» Ï€ÎµÏ�Î¹Î­Ï‡ÎµÎ¹ Ï„Î¹Ï‚ Î»ÎµÎ¹Ï„Î¿Ï…Ï�Î³Î¹ÎºÎ­Ï‚ Î¼Î¿Î½Î¬Î´ÎµÏ‚ Ï€Î¿Ï… Î±Ï€Î±Î¹Ï„Î¿Ï�Î½Ï„Î±Î¹ Î³Î¹Î± Ï„Î¹Ï‚ ÎµÏ†Î±Ï�Î¼Î¿Î³Î­Ï‚ Î±Î³ÎºÏ�Ï�Ï‰ÏƒÎ·Ï‚ Î´Î¹Î±Î´Î¹ÎºÏ„Ï…Î±ÎºÎ¿Ï� Ï€ÎµÏ�Î¹ÎµÏ‡Î¿Î¼Î­Î½Î¿Ï….",
+			"lang":"el"
+		},
+		{
+			"value":"This profile has the set of modules to be used for the Web Dock applications.",
+			"lang":"en"
+		},
+		{
+			"value":"Este perfil tiene el conjunto de mÃ³dulos que se utilizarÃ¡ para las aplicaciones de Web Dock.",
+			"lang":"es"
+		},
+		{
+			"value":"TÃ¤ssÃ¤ profiilissa on joukko moduuleja, joita kÃ¤ytetÃ¤Ã¤n Web-telakointi-sovelluksissa.",
+			"lang":"fi"
+		},
+		{
+			"value":"Ce profil contient l'ensemble de modules Ã  utiliser pour les applications d'ancrage Web.",
+			"lang":"fr"
+		},
+		{
+			"value":"×¤×¨×•×¤×™×œ ×–×” ×›×•×œ×œ ×�×ª ×ž×¢×¨×š ×”×ž×•×“×•×œ×™×� ×”×ž×©×ž×© ×¢×‘×•×¨ ×™×™×©×•×ž×™ Web Dock.â€�",
+			"lang":"he"
+		},
+		{
+			"value":"Ovaj profil ima skup modula koji se koriste za Web Dock aplikacije.",
+			"lang":"hr"
+		},
+		{
+			"value":"A profil tartalmazza a Webdokk alkalmazÃ¡sokhoz hasznÃ¡landÃ³ modulok kÃ©szletÃ©t.",
+			"lang":"hu"
+		},
+		{
+			"value":"Questo profilo contiene l'insieme di moduli da utilizzare per le applicazioni Magazzino Web.",
+			"lang":"it"
+		},
+		{
+			"value":"ã�“ã�®ãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«ã�«ã�¯ã€�Web ãƒ‰ãƒƒã‚¯ãƒ»ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã�«ä½¿ç”¨ã�•ã‚Œã‚‹ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã�®ã‚»ãƒƒãƒˆã�Œã�‚ã‚Šã�¾ã�™ã€‚",
+			"lang":"ja"
+		},
+		{
+			"value":"Ð‘Ò±Ð» Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð»Ð´Ð° Ð’ÐµÐ±Ñ‚Ñ– Ð±ÐµÐºÑ–Ñ‚Ñƒ Ð±Ð°Ò“Ð´Ð°Ñ€Ð»Ð°Ð¼Ð°Ð»Ð°Ñ€Ñ‹ Ò¯ÑˆÑ–Ð½ Ð¿Ð°Ð¹Ð´Ð°Ð»Ð°Ð½Ñ‹Ð»Ð°Ñ‚Ñ‹Ð½ Ð¼Ð¾Ð´ÑƒÐ»ÑŒÐ´ÐµÑ€ Ð¶Ð¸Ð½Ð°Ò“Ñ‹ Ð±Ð¾Ð»Ð°Ð´Ñ‹.",
+			"lang":"kk"
+		},
+		{
+			"value":"ì�´ í”„ë¡œíŒŒì�¼ì—�ëŠ” ì›¹ ë�„í�¬ ì• í”Œë¦¬ì¼€ì�´ì…˜ì—� ì‚¬ìš©í•  ëª¨ë“ˆ ì„¸íŠ¸ê°€ ìžˆìŠµë‹ˆë‹¤.",
+			"lang":"ko"
+		},
+		{
+			"value":"Dit profiel heeft de set modules die moeten worden gebruikt voor de Web Dock-toepassingen.",
+			"lang":"nl"
+		},
+		{
+			"value":"Denne profilen har settet med moduler som skal brukes for Web Dock-applikasjoner.",
+			"lang":"no"
+		},
+		{
+			"value":"Ten profil zawiera zbiÃ³r moduÅ‚Ã³w do uÅ¼ycia w aplikacjach dokowania WWW.",
+			"lang":"pl"
+		},
+		{
+			"value":"Este perfil tem o conjunto de mÃ³dulos a utilizar para as aplicaÃ§Ãµes Acoplamento da Web.",
+			"lang":"pt"
+		},
+		{
+			"value":"Este perfil possui o conjunto de mÃ³dulos a ser usado para os aplicativos Web Dock.",
+			"lang":"pt_BR"
+		},
+		{
+			"value":"Acest profil are setul de module de utilizat pentru aplicaÅ£iile Web Dock.",
+			"lang":"ro"
+		},
+		{
+			"value":"Ð­Ñ‚Ð¾Ñ‚ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ñ�Ð¾Ð´ÐµÑ€Ð¶Ð¸Ñ‚ Ð½Ð°Ð±Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»ÐµÐ¹, Ð¿Ñ€Ð¸Ð¼ÐµÐ½Ñ�ÐµÐ¼Ñ‹Ñ… Ð´Ð»Ñ� Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹ Web Dock.",
+			"lang":"ru"
+		},
+		{
+			"value":"Tento profil mÃ¡ mnoÅ¾inu modulov, ktorÃ© sa pouÅ¾ijÃº pre aplikÃ¡cie Web Dock.",
+			"lang":"sk"
+		},
+		{
+			"value":"Ta profil vsebuje nabor modulov, ki so namenjeni za aplikacije Spletnega sidriÅ¡Ä�a.",
+			"lang":"sl"
+		},
+		{
+			"value":"Profil med de moduler som anvÃ¤nds fÃ¶r webbdockningsprogram.",
+			"lang":"sv"
+		},
+		{
+			"value":"à¹‚à¸›à¸£à¹„à¸Ÿà¸¥à¹Œà¸™à¸µà¹‰à¸¡à¸µà¸Šà¸¸à¸”à¸‚à¸­à¸‡à¹‚à¸¡à¸”à¸¹à¸¥à¸—à¸µà¹ˆà¹ƒà¸Šà¹‰à¸ªà¸³à¸«à¸£à¸±à¸šà¹�à¸­à¹‡à¸žà¸žà¸¥à¸´à¹€à¸„à¸Šà¸±à¸™ Web Dock",
+			"lang":"th"
+		},
+		{
+			"value":"Bu profil, Web Havuzu uygulamalarÄ± iÃ§in kullanÄ±lacak modÃ¼ller kÃ¼mesini iÃ§erir.",
+			"lang":"tr"
+		},
+		{
+			"value":"ÐŸÑ€Ð¾Ñ„Ð°Ð¹Ð» Ð¼Ð°Ñ” Ð½Ð°Ð±Ñ–Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ–Ð² Ð´Ð»Ñ� Ð²Ð¸ÐºÐ¾Ñ€Ð¸Ñ�Ñ‚Ð°Ð½Ð½Ñ� Ð· Ð¿Ñ€Ð¸ÐºÐ»Ð°Ð´Ð½Ð¸Ð¼Ð¸ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð°Ð¼Ð¸ Web Dock.",
+			"lang":"uk"
+		},
+		{
+			"value":"æ­¤æ¦‚è¦�æ–‡ä»¶å…·æœ‰å�¯ä¾› Web Dock åº”ç”¨ç¨‹åº�ä½¿ç”¨çš„æ¨¡å�—é›†ã€‚",
+			"lang":"zh"
+		},
+		{
+			"value":"é€™å€‹è¨­å®šæª”å…·æœ‰è¦�ç”¨æ–¼ Web å®šç½®æ‡‰ç”¨ç¨‹å¼�çš„æ¨¡çµ„é›†ã€‚",
+			"lang":"zh_TW"
+		}
+	]
+}

@@ -1,0 +1,292 @@
+{
+	"moduleIDs": [
+		"getting_started_module",
+		"wp_theme_portal_85",
+		"myDev_dynamicContentSpots_85",
+		"wp_toolbar_host_view",
+		"wp_portlet_css",
+		"wp_one_ui",
+		"wp_one_ui_dijit",
+		"wp_client_ext",
+		"wp_status_bar",
+		"wp_theme_menus",
+		"wp_theme_skin_region",
+		"wp_theme_high_contrast",
+		"wp_layout_windowstates",
+		"wp_portal",
+		"wp_analytics_aggregator",
+		"wp_oob_sample_styles",
+		"wp_ic4_wai_resources",
+		"wp_worklight_ext",
+		"wp_social_rendering_85",
+		"dojo",
+		"wp_sametime_proxy"
+	],
+	"deferredModuleIDs": [
+		"wp_toolbar_host_edit",
+		"wp_analytics_tags",
+		"wp_contextmenu_live_object",
+		"wp_content_targeting_cam",
+		"wcm_inplaceEdit"
+	],
+	"titles": [
+		{
+			"value":"Ù…Ø¤Ø¬Ù„ Ø¨ÙˆØ§Ø³Ø·Ø© Dojo",
+			"lang":"ar"
+		},
+		{
+			"value":"Diferit amb Dojo",
+			"lang":"ca"
+		},
+		{
+			"value":"OdloÅ¾eno se sadou nÃ¡strojÅ¯ Dojo",
+			"lang":"cs"
+		},
+		{
+			"value":"Udskudt med Dojo",
+			"lang":"da"
+		},
+		{
+			"value":"VerzÃ¶gert mit Dojo",
+			"lang":"de"
+		},
+		{
+			"value":"Î‘Î½Î±Î²Î¿Î»Î®Ï‚ Ï†ÏŒÏ�Ï„Ï‰ÏƒÎ·Ï‚ Î¼Îµ Dojo",
+			"lang":"el"
+		},
+		{
+			"value":"Deferred with Dojo",
+			"lang":"en"
+		},
+		{
+			"value":"Aplazado con Dojo",
+			"lang":"es"
+		},
+		{
+			"value":"LykÃ¤tty Dojon kanssa",
+			"lang":"fi"
+		},
+		{
+			"value":"DiffÃ©rÃ© avec Dojo",
+			"lang":"fr"
+		},
+		{
+			"value":"×ž×•×©×”×” ×¢×� Dojo",
+			"lang":"he"
+		},
+		{
+			"value":"OdgoÄ‘eno uz Dojo",
+			"lang":"hr"
+		},
+		{
+			"value":"KÃ©sleltetett Dojo-val",
+			"lang":"hu"
+		},
+		{
+			"value":"Differito con Dojo",
+			"lang":"it"
+		},
+		{
+			"value":"Dojo ã‚’ä½¿ç”¨ã�—ã�Ÿæ�®ã�ˆç½®ã��",
+			"lang":"ja"
+		},
+		{
+			"value":"Dojo Ñ�Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ–Ð¼ÐµÐ½ Ð±Ñ–Ñ€Ð³Ðµ ÐºÐµÐ¹Ñ–Ð½Ð³Ðµ Ò›Ð°Ð»Ð´Ñ‹Ñ€Ñ‹Ð»Ð´Ñ‹",
+			"lang":"kk"
+		},
+		{
+			"value":"ì§€ì—°ë�¨(Dojo í�¬í•¨)",
+			"lang":"ko"
+		},
+		{
+			"value":"Uitgesteld met Dojo",
+			"lang":"nl"
+		},
+		{
+			"value":"Utsatt med Dojo",
+			"lang":"no"
+		},
+		{
+			"value":"Odroczone z technologiÄ… Dojo",
+			"lang":"pl"
+		},
+		{
+			"value":"Diferido com o Dojo",
+			"lang":"pt"
+		},
+		{
+			"value":"Adiada com o Dojo",
+			"lang":"pt_BR"
+		},
+		{
+			"value":"AmÃ¢nat cu Dojo",
+			"lang":"ro"
+		},
+		{
+			"value":"ÐžÑ‚Ð»Ð¾Ð¶ÐµÐ½Ð½Ñ‹Ðµ - Dojo",
+			"lang":"ru"
+		},
+		{
+			"value":"OneskorenÃ© s Dojo",
+			"lang":"sk"
+		},
+		{
+			"value":"OdloÅ¾en s kompletom orodij Dojo",
+			"lang":"sl"
+		},
+		{
+			"value":"Senarelagd med Dojo",
+			"lang":"sv"
+		},
+		{
+			"value":"à¸­à¹‰à¸²à¸‡à¸­à¸´à¸‡à¸”à¹‰à¸§à¸¢ Dojo",
+			"lang":"th"
+		},
+		{
+			"value":"Dojo Ä°le Ertelemeli",
+			"lang":"tr"
+		},
+		{
+			"value":"Ð’Ñ–Ð´ÐºÐ»Ð°Ð´ÐµÐ½Ð¸Ð¹ Ñ–Ð· Dojo",
+			"lang":"uk"
+		},
+		{
+			"value":"Dojo é€’å»¶",
+			"lang":"zh"
+		},
+		{
+			"value":"ä½¿ç”¨ Dojo çš„å»¶é�²",
+			"lang":"zh_TW"
+		}
+	],
+	"descriptions": [
+		{
+			"value":"Ù…Ù„Ù� Ø§Ù„Ù…ÙˆØ§ØµÙ�Ø§Øª Ù‡Ø°Ø§ ÙŠØ­ØªÙˆÙŠ Ø¹Ù„Ù‰ Ù…Ø¬Ù…ÙˆØ¹Ø© ÙƒØ§Ù…Ù„Ø© Ù…Ù† ÙˆØ­Ø¯Ø§Øª Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ù„Ù„Ù†Ø³Ù‚ Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØŒ Ù„ÙƒÙ† ÙŠØªÙ… ØªØ£Ø¬ÙŠÙ„ ØªØ­Ù…ÙŠÙ„ Ù…Ø¹Ø¸Ù… ÙˆØ­Ø¯Ø§Øª Ø§Ù„Ø¨Ø±Ø§Ù…Ø¬ Ù‡Ø°Ù‡ Ø§Ù„Ø§ Ø§Ø°Ø§ ÙƒØ§Ù†Øª Ù…Ø·Ù„ÙˆØ¨Ø© Ø¨Ø§Ù„Ù�Ø¹Ù„.  Ù…Ù„Ù� Ø§Ù„Ù…ÙˆØ§ØµÙ�Ø§Øª Ù‡Ø°Ø§ ÙŠØªØ¶Ù…Ù† dojo.  ÙŠÙ‚ÙˆÙ… Ù…Ù„Ù� Ø§Ù„Ù…ÙˆØ§ØµÙ�Ø§Øª Ù‡Ø°Ø§ Ø¨ØªÙˆØ§Ø²Ù† Ø§Ù„ÙˆØ¸Ø§Ø¦Ù� ÙˆØ§Ù„Ø£Ø¯Ø§Ø¡.",
+			"lang":"ar"
+		},
+		{
+			"value":"Aquest perfil tÃ© el conjunt complet de mÃ²duls per al tema, perÃ² ajorna la cÃ rrega de la major part d'aquests mÃ²duls tret que siguin realment necessaris.  Aquest perfil inclou dojo.  Aquest perfil equilibra la funciÃ³ i el rendiment.",
+			"lang":"ca"
+		},
+		{
+			"value":"Tento profil mÃ¡ Ãºplnou sadu modulÅ¯ pro motiv, ale odklÃ¡dÃ¡ naÄ�Ã­tÃ¡nÃ­ vÄ›tÅ¡iny tÄ›chto modulÅ¯, dokud nejsou skuteÄ�nÄ› zapotÅ™ebÃ­. Tento profil zahrnuje sadu nÃ¡strojÅ¯ dojo. Tento profil vyvaÅ¾uje funkÄ�nost a vÃ½konnost.",
+			"lang":"cs"
+		},
+		{
+			"value":"Denne profil har et fuldt sÃ¦t moduler til temaet, men indlÃ¦sningen af de fleste moduler udskydes, indtil de rent faktisk skal anvendes.  Profilen indeholder Dojo.  Denne profil afbalancerer funktion og ydeevne.",
+			"lang":"da"
+		},
+		{
+			"value":"Dieses Profil enthÃ¤lt die vollstÃ¤ndige Gruppe von Modulen fÃ¼r das Motiv, verzÃ¶gert aber das Laden der meisten dieser Module, bis diese tatsÃ¤chlich benÃ¶tigt werden. Dieses Profil umfasst Dojo.  Dieses Profil gleicht Funktion und Leistung aus.",
+			"lang":"de"
+		},
+		{
+			"value":"Î‘Ï…Ï„ÏŒ Ï„Î¿ Ï€Ï�Î¿Ï†Î¯Î» Ï€ÎµÏ�Î¹Î­Ï‡ÎµÎ¹ Ï„Î¿ Ï€Î»Î®Ï�ÎµÏ‚ ÏƒÏ�Î½Î¿Î»Î¿ Î»ÎµÎ¹Ï„Î¿Ï…Ï�Î³Î¹ÎºÏŽÎ½ Î¼Î¿Î½Î¬Î´Ï‰Î½ Î³Î¹Î± Ï„Î¿ Î¸Î­Î¼Î±, Î±Î»Î»Î¬ Î±Î½Î±Î²Î¬Î»Î»ÎµÎ¹ Ï„Î· Ï†ÏŒÏ�Ï„Ï‰ÏƒÎ· Ï„Ï‰Î½ Ï€ÎµÏ�Î¹ÏƒÏƒÏŒÏ„ÎµÏ�Ï‰Î½ Î¼Î­Ï‡Ï�Î¹ Î½Î± Ï‡Ï�ÎµÎ¹Î±ÏƒÏ„ÎµÎ¯ Î½Î± Ï‡Ï�Î·ÏƒÎ¹Î¼Î¿Ï€Î¿Î¹Î·Î¸Î¿Ï�Î½.  Î‘Ï…Ï„ÏŒ Ï„Î¿ Ï€Ï�Î¿Ï†Î¯Î» Ï€ÎµÏ�Î¹Î»Î±Î¼Î²Î¬Î½ÎµÎ¹ dojo.  Î‘Ï…Ï„ÏŒ Ï„Î¿ Ï€Ï�Î¿Ï†Î¯Î» ÎµÎ¾Î¹ÏƒÎ¿Ï�Ï�Î¿Ï€ÎµÎ¯ Ï„Î· Î»ÎµÎ¹Ï„Î¿Ï…Ï�Î³Î¹ÎºÏŒÏ„Î·Ï„Î± Î¼Îµ Ï„Î·Î½ Î±Ï€ÏŒÎ´Î¿ÏƒÎ·.",
+			"lang":"el"
+		},
+		{
+			"value":"This profile has the full set of modules for the theme, but defers loading most of these modules unless actually needed.  This profile includes dojo.  This profile balances function and performance.",
+			"lang":"en"
+		},
+		{
+			"value":"Este perfil tiene un conjunto completo de mÃ³dulos para el tema, pero aplaza la carga de la mayorÃ­a de estos mÃ³dulos a no ser que sea necesario.  Este perfil incluye dojo.  equilibra funciÃ³n y rendimiento.",
+			"lang":"es"
+		},
+		{
+			"value":"TÃ¤ssÃ¤ profiilissa on tÃ¤ysi teeman moduulijoukko, mutta profiili lykkÃ¤Ã¤ useimpien kyseisten moduulien latausta, kunnes niitÃ¤ tarvitaan.  TÃ¤mÃ¤ profiili sisÃ¤ltÃ¤Ã¤ dojo-ominaisuuksia.  Profiili tasapainottaa toiminnallisuutta ja suorituskykyÃ¤.",
+			"lang":"fi"
+		},
+		{
+			"value":"Ce profil contient l'ensemble complet de modules pour le thÃ¨me mais diffÃ¨re le chargement de la plupart de ces modules sauf s'ils sont requis.  Ce profil inclut Dojo.  Il Ã©quilibre la fonctionnalitÃ© et les performances.",
+			"lang":"fr"
+		},
+		{
+			"value":"×¤×¨×•×¤×™×œ ×–×” ×›×•×œ×œ ×ž×¢×¨×š ×©×œ×� ×©×œ ×ž×•×“×•×œ×™×� ×¢×‘×•×¨ ×”×¢×¨×›×”, ×�×‘×œ ×ž×©×”×” ×�×ª ×”×˜×¢×™× ×” ×©×œ ×¨×•×‘ ×”×ž×•×“×•×œ×™×� ×�×œ×� ×�×� ×”×� × ×—×•×¦×™×� ×‘×¤×•×¢×œ.  ×¤×¨×•×¤×™×œ ×–×” ×›×•×œ×œ ×�×ª dojo.â€�  ×¤×¨×•×¤×™×œ ×–×” ×ž×�×–×Ÿ ×¤×•× ×§×¦×™×•× ×œ×™×•×ª ×•×‘×™×¦×•×¢×™×�.",
+			"lang":"he"
+		},
+		{
+			"value":"Ovaj profil ima puni skup modula za temu, ali odgaÄ‘a uÄ�itavanje veÄ‡ine tih modula dok nisu stvarno potrebni.  Ovaj profil ukljuÄ�uje dojo.  Ovaj profil uravnoteÅ¾uje funkcionalnost i performanse.",
+			"lang":"hr"
+		},
+		{
+			"value":"Ez a profil a modul tÃ©mÃ¡inak teljes kÃ©szletÃ©t tartalmazza, de a modulok legtÃ¶bbjÃ©nek betÃ¶ltÃ©sÃ©t addig kÃ©slelteti, amÃ­g azokra tÃ©nylegesen szÃ¼ksÃ©g nem lesz.  A profil dojo-t tartalmaz.  A profil egyensÃºlyt teremt funkciÃ³ Ã©s teljesÃ­tmÃ©ny kÃ¶zÃ¶tt.",
+			"lang":"hu"
+		},
+		{
+			"value":"Questo profilo ha l'intero insieme di moduli per il tema ma rimanda il caricamento della maggior parte di questi moduli se non sono effettivamente necessari.  Questo profilo include dojo.  Questo profilo bilancia funzioni e prestazioni.",
+			"lang":"it"
+		},
+		{
+			"value":"ã�“ã�®ãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«ã�«ã�¯ãƒ†ãƒ¼ãƒžã�«é–¢ã�™ã‚‹ã�™ã�¹ã�¦ã�®ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã�®ã‚»ãƒƒãƒˆã�Œã�‚ã‚Šã�¾ã�™ã�Œã€�å®Ÿéš›ã�«å¿…è¦�ã�«ã�ªã‚‰ã�ªã�„é™�ã‚Šã€�ã��ã‚Œã‚‰ã�®ã�»ã�¨ã‚“ã�©ã�®ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã�®ãƒ­ãƒ¼ãƒ‰ã‚’æ�®ã�ˆç½®ã��ã�¾ã�™ã€‚  ã�“ã�®ãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«ã�«ã�¯ Dojo ã�Œå�«ã�¾ã‚Œã�¦ã�„ã�¾ã�™ã€‚  ã�“ã�®ãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«ã�¯æ©Ÿèƒ½ã�¨ãƒ‘ãƒ•ã‚©ãƒ¼ãƒžãƒ³ã‚¹ã�®ãƒ�ãƒ©ãƒ³ã‚¹ã‚’å�–ã‚Šã�¾ã�™ã€‚",
+			"lang":"ja"
+		},
+		{
+			"value":"Ð‘Ò±Ð» Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð»Ð´Ð° Ñ‚Ð°Ò›Ñ‹Ñ€Ñ‹Ð¿Ñ‚Ñ‹Ò£ Ñ‚Ð¾Ð»Ñ‹Ò› Ð¼Ð¾Ð´ÑƒÐ»ÑŒÐ´ÐµÑ€Ñ–Ð½Ñ–Ò£ Ð¶Ð¸Ñ‹Ð½Ñ‚Ñ‹Ò“Ñ‹ Ð±Ð°Ñ€, Ð±Ñ–Ñ€Ð°Ò› ÑˆÑ‹Ð½Ñ‹Ð¼ÐµÐ½Ð´Ðµ Ò›Ð°Ð¶ÐµÑ‚Ñ‚Ñ– Ð¼Ð¾Ð´ÑƒÐ»ÑŒÐ´ÐµÑ€Ð´Ñ–Ò£ ÐºÓ©Ð¿ÑˆÑ–Ð»Ñ–Ð³Ñ–Ð½ Ð¶Ò¯ÐºÑ‚ÐµÑƒÐ´Ñ– ÐºÐµÐ¹Ñ–Ð½Ð³Ðµ Ò›Ð°Ð»Ð´Ñ‹Ñ€Ð°Ð´Ñ‹.  Ð‘Ò±Ð» Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» dojo Ñ�Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ–Ð½ Ò›Ð°Ð¼Ñ‚Ð¸Ð´Ñ‹.  Ð‘Ò±Ð» Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ñ„ÑƒÐ½ÐºÑ†Ð¸Ñ� Ð¶Ó™Ð½Ðµ ÐºÓ©Ñ€Ñ�ÐµÑ‚Ñ–Ð»Ñ–Ð¼Ð´Ñ– Ñ‚ÐµÒ£ Ð´Ó™Ñ€ÐµÐ¶ÐµÐ´Ðµ Ò±Ñ�Ñ‚Ð°Ð¹Ð´Ñ‹.",
+			"lang":"kk"
+		},
+		{
+			"value":"ì�´ í”„ë¡œíŒŒì�¼ì—�ëŠ” í…Œë§ˆì�˜ ì „ì²´ ëª¨ë“ˆ ì„¸íŠ¸ê°€ ìžˆì§€ë§Œ ì�´ëŸ¬í•œ ëª¨ë“ˆì�´ ì‹¤ì œë¡œ í•„ìš”í•˜ì§€ ì•ŠëŠ” í•œ ì�´ëŸ¬í•œ ëª¨ë“ˆ ëŒ€ë¶€ë¶„ì�˜ ë¡œë“œë¥¼ ì§€ì—°í•©ë‹ˆë‹¤.  ì�´ í”„ë¡œíŒŒì�¼ì—�ëŠ” Dojoê°€ í�¬í•¨ë�©ë‹ˆë‹¤.  ì�´ í”„ë¡œíŒŒì�¼ì�€ ê¸°ëŠ¥ê³¼ ì„±ëŠ¥ì�˜ ê· í˜•ì�„ ë§žì¶¥ë‹ˆë‹¤.",
+			"lang":"ko"
+		},
+		{
+			"value":"Dit profiel heeft de volledige set modules voor het thema maar stelt het laden van de meeste modules uit totdat deze feitelijk nodig zijn.  Dit profiel bevat dojo.  Dit profiel zorgt voor een balans tussen functies en performance.",
+			"lang":"nl"
+		},
+		{
+			"value":"Denne profilen har et fullstendig sett med moduler for temaet, men utsetter innlasting av de fleste av disse modulene med mindre de faktisk er nÃ¸dvendige.  Denne profilen inkluderer dojo.  Denne profilen balanserer funksjon og ytelse.",
+			"lang":"no"
+		},
+		{
+			"value":"Ten profil zawiera peÅ‚ny zestaw moduÅ‚Ã³w kompozycji, ale Å‚adowanie wiÄ™kszoÅ›ci z nich jest odroczone do momentu, w ktÃ³rym bÄ™dÄ… rzeczywiÅ›cie potrzebne.  Ten profil zawiera technologiÄ™ Dojo.  Ten profil zapewnia rÃ³wnowagÄ™ miÄ™dzy funkcjonalnoÅ›ciÄ… a wydajnoÅ›ciÄ….",
+			"lang":"pl"
+		},
+		{
+			"value":"Este perfil tem um conjunto completo de mÃ³dulos para o tema, mas difere o carregamento da maioria destes mÃ³dulos, excepto se for realmente necessÃ¡rio.  Este perfil inclui o dojo.  Este perfil equilibra a funÃ§Ã£o e o desempenho.",
+			"lang":"pt"
+		},
+		{
+			"value":"Esse perfil possui o conjunto completo de mÃ³dulos para o tema, mas adia o carregamento da maioria desses mÃ³dulos, a menos que seja realmente necessÃ¡rio.  Esse perfil inclui dojo.  Esse perfil equilibra funÃ§Ã£o e desempenho.",
+			"lang":"pt_BR"
+		},
+		{
+			"value":"Acest profil are setul complet de module pentru temÄƒ, dar amÃ¢nÄƒ Ã®ncÄƒrcarea majoritÄƒÅ£ii acestor module Ã®n afarÄƒ de cazul Ã®n care este necesar.  Acest profil inlude dojo.  Acest profil echilibreazÄƒ funcÅ£ia ÅŸi performanÅ£a.",
+			"lang":"ro"
+		},
+		{
+			"value":"Ð­Ñ‚Ð¾Ñ‚ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ñ�Ð¾Ð´ÐµÑ€Ð¶Ð¸Ñ‚ Ð¿Ð¾Ð»Ð½Ñ‹Ð¹ Ð½Ð°Ð±Ð¾Ñ€ Ð¼Ð¾Ð´ÑƒÐ»ÐµÐ¹, Ð½Ð¾ Ð¸Ñ… Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ° Ð¾Ñ‚Ð»Ð¾Ð¶ÐµÐ½Ð°, Ð¿Ð¾ÐºÐ° Ð² Ð½Ð¸Ñ… Ð½Ðµ Ð²Ð¾Ð·Ð½Ð¸ÐºÐ½ÐµÑ‚ Ñ„Ð°ÐºÑ‚Ð¸Ñ‡ÐµÑ�ÐºÐ¾Ð¹ Ð¿Ð¾Ñ‚Ñ€ÐµÐ±Ð½Ð¾Ñ�Ñ‚Ð¸.  Ð’ Ñ�Ð¾Ñ�Ñ‚Ð°Ð² Ñ�Ñ‚Ð¾Ð³Ð¾ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð»Ð° Ð²Ñ…Ð¾Ð´Ð¸Ñ‚ dojo.  Ð¢Ð°ÐºÐ¾Ð¹ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ñ�Ð²Ð»Ñ�ÐµÑ‚Ñ�Ñ� Ñ�Ð±Ð°Ð»Ð°Ð½Ñ�Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¼ Ð¼ÐµÐ¶Ð´Ñƒ Ñ„ÑƒÐ½ÐºÑ†Ð¸Ð¾Ð½Ð°Ð»ÑŒÐ½Ð¾Ñ�Ñ‚ÑŒÑŽ Ð¸ Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ñ�Ñ‚ÑŒÑŽ.",
+			"lang":"ru"
+		},
+		{
+			"value":"Tento profil mÃ¡ ÃºplnÃº mnoÅ¾inu modulov pre tÃ©mu, ale odkladÃ¡ naÄ�Ã­tanie vÃ¤Ä�Å¡iny tÃ½chto modulov, kÃ½m nebudÃº skutoÄ�ne potrebnÃ©.  Tento profil zahÅ•Åˆa dojo.  Tento profil vyvaÅ¾uje funkÄ�nosÅ¥ a vÃ½kon.",
+			"lang":"sk"
+		},
+		{
+			"value":"Ta profil vsebuje celoten nabor modulov za temo, vendar nalaganje veÄ�ine teh modulov odloÅ¾i, dokler jih dejansko ne potrebuje.  Ta profil vkljuÄ�uje komplet orodij Dojo.  Ta profil uravnoteÅ¾i funkcijo in zmogljivost.",
+			"lang":"sl"
+		},
+		{
+			"value":"Profil med en full moduluppsÃ¤ttning men de flesta moduler lÃ¤ses inte in fÃ¶rrÃ¤n de faktiskt behÃ¶vs.  InnehÃ¥ller Dojo.  Profilen balanserar funktion och prestanda.",
+			"lang":"sv"
+		},
+		{
+			"value":"à¹‚à¸›à¸£à¹„à¸Ÿà¸¥à¹Œà¸™à¸µà¹‰à¸¡à¸µà¸Šà¸¸à¸”à¸—à¸µà¹ˆà¸ªà¸¡à¸šà¸¹à¸£à¸“à¹Œà¸‚à¸­à¸‡à¹‚à¸¡à¸”à¸¹à¸¥à¸ªà¸³à¸«à¸£à¸±à¸šà¸˜à¸µà¸¡ à¹�à¸•à¹ˆà¸„à¸§à¸£à¸¢à¸·à¸”à¹€à¸§à¸¥à¸²à¸�à¸²à¸£à¹‚à¸«à¸¥à¸”à¹‚à¸¡à¸”à¸¹à¸¥à¸ªà¹ˆà¸§à¸™à¹ƒà¸«à¸�à¹ˆà¹€à¸«à¸¥à¹ˆà¸²à¸™à¸µà¹‰à¸¢à¸�à¹€à¸§à¹‰à¸™à¸§à¹ˆà¸²à¸ˆà¸³à¹€à¸›à¹‡à¸™à¸ˆà¸£à¸´à¸‡à¹†  à¹‚à¸›à¸£à¹„à¸Ÿà¸¥à¹Œà¸™à¸µà¹‰à¸¡à¸µ dojo  à¹‚à¸›à¸£à¹„à¸Ÿà¸¥à¹Œà¸™à¸µà¹‰à¸ˆà¸°à¸›à¸£à¸±à¸šà¸ªà¸¡à¸”à¸¸à¸¥à¸£à¸°à¸«à¸§à¹ˆà¸²à¸‡à¸Ÿà¸±à¸‡à¸�à¹Œà¸Šà¸±à¸™à¹�à¸¥à¸°à¸›à¸£à¸°à¸ªà¸´à¸—à¸˜à¸´à¸ à¸²à¸žà¸�à¸²à¸£à¸—à¸³à¸‡à¸²à¸™",
+			"lang":"th"
+		},
+		{
+			"value":"Bu profil, temayla ilgili tÃ¼m modÃ¼l kÃ¼mesini iÃ§erir; ancak, gerÃ§ekten gerekmedikÃ§e bunlarÄ±n Ã§oÄŸunun yÃ¼klenmesini erteler.  Bu profil Dojo'yu iÃ§erir.  Bu profil iÅŸlev ile performansÄ± dengeler.",
+			"lang":"tr"
+		},
+		{
+			"value":"Ð¦ÐµÐ¹ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ð¼Ñ–Ñ�Ñ‚Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð²Ð½Ð¸Ð¹ Ð½Ð°Ð±Ñ–Ñ€ Ð¼Ð¾Ð´ÑƒÐ»Ñ–Ð² Ð´Ð»Ñ� Ñ‚ÐµÐ¼Ð¸, Ð°Ð»Ðµ Ð±Ñ–Ð»ÑŒÑˆÑ–Ñ�Ñ‚ÑŒ Ð· Ð½Ð¸Ñ… Ð·Ð°Ð²Ð°Ð½Ñ‚Ð°Ð¶ÑƒÑŽÑ‚ÑŒÑ�Ñ� Ð»Ð¸ÑˆÐµ Ð½Ð° Ð²Ð¸Ð¼Ð¾Ð³Ñƒ.  Ð¦ÐµÐ¹ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ð²ÐºÐ»ÑŽÑ‡Ð°Ñ” dojo.  Ð¢Ð°ÐºÐ¸Ð¹ Ð¿Ñ€Ð¾Ñ„Ð°Ð¹Ð» Ð·Ð°Ð±ÐµÐ·Ð¿ÐµÑ‡ÑƒÑ” Ð±Ð°Ð»Ð°Ð½Ñ� Ð¼Ñ–Ð¶ Ñ„ÑƒÐ½ÐºÑ†Ñ–Ð¾Ð½Ð°Ð»ÑŒÐ½Ñ–Ñ�Ñ‚ÑŽ Ñ‚Ð° Ð¿Ñ€Ð¾Ð´ÑƒÐºÑ‚Ð¸Ð²Ð½Ñ–Ñ�Ñ‚ÑŽ.",
+			"lang":"uk"
+		},
+		{
+			"value":"æ­¤æ¦‚è¦�æ–‡ä»¶å…·æœ‰ä¸»é¢˜çš„å®Œæ•´æ¨¡å�—é›†ï¼Œä½†å¦‚æžœå¹¶é�žçœŸæ­£éœ€è¦�ï¼Œé‚£ä¹ˆå°†æŽ¨è¿Ÿè£…å…¥è¿™äº›æ¨¡å�—ä¸­çš„ç»�å¤§å¤šæ•°æ¨¡å�—ã€‚æ­¤æ¦‚è¦�æ–‡ä»¶åŒ…å�« Dojoã€‚æ­¤æ¦‚è¦�æ–‡ä»¶å°†å�‡è¡¡åŠŸèƒ½å’Œæ€§èƒ½ã€‚",
+			"lang":"zh"
+		},
+		{
+			"value":"é€™å€‹è¨­å®šæª”åŒ…å�«ä½ˆæ™¯ä¸»é¡Œçš„å®Œæ•´æ¨¡çµ„é›†ï¼Œä½†æ˜¯å»¶é�²è¼‰å…¥é€™å…¶ä¸­çš„å¤§éƒ¨åˆ†æ¨¡çµ„ï¼Œé™¤é�žå¯¦éš›éœ€è¦�ã€‚æ­¤è¨­å®šæª”ä½µå…¥ dojoã€‚é€™å€‹è¨­å®šæª”å�¯å¹³è¡¡åŠŸèƒ½èˆ‡æ•ˆèƒ½ã€‚",
+			"lang":"zh_TW"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="com.mydev.custom.dyna.spots" name="MyDev Dynamic Spots Module" provider-name="IBM" version="1.0.0">
+    
+    <extension id="myDev_dynamicContentSpots_new" point="com.ibm.portal.resourceaggregator.module">
+        <module id="myDev_dynamicContentSpots_new">
+            
+
+			<title lang="en" value="MyDev Dynamic Spots Module"/>
+			<description lang="en" value="This module contains the new dynamic spots"/>
+
+            <contribution type="dyn-cs">
+                <sub-contribution type="markup" ref-id="myDevDynaSpotTest">
+                    <uri value="res:{war:context-root}/dynaSpots/test.jsp"/>
+                </sub-contribution>
+                
+            </contribution>
+        </module>
+    </extension>
+
+</plugin>
