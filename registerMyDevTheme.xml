@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<request build="20140424-1749" type="update" version="8.5.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PortalConfig_8.5.0.xsd">
+  <portal action="locate">
+    <skin action="update" active="true" context-root="/MyDevThemeDynamic" default="true" domain="rel" objectid="ZK_KICI1341MGD6B0ATK4GCVR0000" resourceroot="Hidden" type="default" uniquename="com.mydev.85Hidden">
+      <localedata locale="en">
+        <title>My Dev Portal 8.5 - Hidden</title>
+      </localedata>
+      <parameter name="com.ibm.portal.skin.template.ref" type="string" update="set"><![CDATA[war:MyDevThemeStatic/themes/MyDevTheme/skins/Hidden/]]></parameter>
+      <parameter name="com.ibm.portal.skintype" type="string" update="set"><![CDATA[template]]></parameter>
+      <parameter name="com.ibm.portal.skin.template.file.name.html" type="string" update="set"><![CDATA[skin.html]]></parameter>
+    </skin>
+    <skin action="update" active="true" context-root="/MyDevThemeDynamic" default="false" domain="rel" objectid="ZK_KICI1341MGD6B0ATK4GCVR0004" resourceroot="HiddenPlus" type="default" uniquename="com.mydev.85HiddenPlus">
+      <localedata locale="en">
+        <title>My Dev Portal 8.5 - Hidden Plus</title>
+      </localedata>
+      <parameter name="com.ibm.portal.skin.template.ref" type="string" update="set"><![CDATA[war:MyDevThemeStatic/themes/MyDevTheme/skins/HiddenPlus/]]></parameter>
+      <parameter name="com.ibm.portal.skintype" type="string" update="set"><![CDATA[template]]></parameter>
+      <parameter name="com.ibm.portal.skin.template.file.name.html" type="string" update="set"><![CDATA[skin.html]]></parameter>
+    </skin>
+    <skin action="update" active="true" context-root="/MyDevThemeDynamic" default="false" domain="rel" objectid="ZK_KICI1341MGD6B0ATK4GCVR0002" resourceroot="Standard" type="default" uniquename="com.mydev.85Standard">
+      <localedata locale="en">
+        <title>My Dev Portal 8.5 - Standard</title>
+      </localedata>
+      <parameter name="com.ibm.portal.skin.template.ref" type="string" update="set"><![CDATA[war:MyDevThemeStatic/themes/MyDevTheme/skins/Standard/]]></parameter>
+      <parameter name="com.ibm.portal.skintype" type="string" update="set"><![CDATA[template]]></parameter>
+      <parameter name="com.ibm.portal.skin.template.file.name.html" type="string" update="set"><![CDATA[skin.html]]></parameter>
+    </skin>
+    <skin action="update" active="true" context-root="/MyDevThemeDynamic" default="false" domain="rel" objectid="ZK_KICI1341MGD6B0ATK4GCVR0006" resourceroot="NoSkin" type="default" uniquename="com.mydev.85NoSkin">
+      <localedata locale="en">
+        <title>My Dev Portal 8.5 - No Skin</title>
+      </localedata>
+      <parameter name="com.ibm.portal.skin.template.ref" type="string" update="set"><![CDATA[war:MyDevThemeStatic/themes/MyDevTheme/skins/NoSkin/]]></parameter>
+      <parameter name="com.ibm.portal.skintype" type="string" update="set"><![CDATA[template]]></parameter>
+      <parameter name="com.ibm.portal.skin.template.file.name.html" type="string" update="set"><![CDATA[skin.html]]></parameter>
+    </skin>
+    <theme action="update" active="true" context-root="/MyDevThemeDynamic" default="false" domain="rel" objectid="ZJ_KICI1341MGD6B0ATK4GCVR0001" defaultskinref="ZK_KICI1341MGD6B0ATK4GCVR0006" resourceroot="dynamicSpots" uniquename="com.mydev.85Theme">
+      <localedata locale="en">
+        <title>My Dev Portal 8.5</title>
+      </localedata>
+      <allowed-skin skin="ZK_KICI1341MGD6B0ATK4GCVR0000" update="set" />
+      <allowed-skin skin="ZK_KICI1341MGD6B0ATK4GCVR0002" update="set" />
+      <allowed-skin skin="ZK_KICI1341MGD6B0ATK4GCVR0004" update="set" />
+      <allowed-skin skin="ZK_KICI1341MGD6B0ATK4GCVR0006" update="set" />
+      <parameter name="com.ibm.portal.theme.aggregationmodes" type="string" update="set"><![CDATA[ssa]]></parameter>
+      <parameter name="resourceaggregation.profile" type="string" update="set"><![CDATA[profiles/profile_deferred.json]]></parameter>
+      <parameter name="com.ibm.portal.theme.template.ref" type="string" update="set"><![CDATA[war:MyDevThemeStatic/themes/MyDevTheme/]]></parameter>
+      <parameter name="com.ibm.portal.layout.template.href" type="string" update="set"><![CDATA[war:MyDevThemeStatic/themes/MyDevTheme/layout-templates/2ColumnEqual/]]></parameter>
+    </theme>
+  </portal>
+  <status element="all" result="ok" />
+</request>
